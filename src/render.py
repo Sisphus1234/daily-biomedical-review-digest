@@ -1,5 +1,6 @@
 """把精读结果渲染为 Markdown 文件并维护索引。"""
 
+import datetime
 import pathlib
 import re
 import urllib.parse
@@ -135,6 +136,25 @@ def write_note(paper: dict, reading: dict, source_label: str) -> pathlib.Path:
     path = NOTES_DIR / fname
     path.write_text(render_markdown(paper, reading, source_label), encoding="utf-8")
     return path
+
+
+def cleanup_old_notes(today: datetime.date, keep_days: int = 1) -> int:
+    """删除早于保留期限的精读文件，返回删除数量。保留 notes/README.md 索引。"""
+    removed = 0
+    if keep_days < 0:
+        keep_days = 0
+    cutoff = today - datetime.timedelta(days=keep_days)
+    for p in NOTES_DIR.glob("*.md"):
+        if p.name == "README.md":
+            continue
+        try:
+            file_date = datetime.date.fromisoformat(p.name[:10])
+        except ValueError:
+            continue
+        if file_date < cutoff:
+            p.unlink(missing_ok=True)
+            removed += 1
+    return removed
 
 
 def update_index() -> None:

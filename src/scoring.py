@@ -85,8 +85,9 @@ def load_seen(data_dir: pathlib.Path) -> set:
         return set()
 
 
-def save_seen(data_dir: pathlib.Path, pmids: set) -> None:
+def save_seen(data_dir: pathlib.Path, pmids: set, max_size: int = 30) -> None:
     data_dir.mkdir(parents=True, exist_ok=True)
+    pmids = set(sorted(pmids)[-max_size:])
     (data_dir / "seen.json").write_text(
         json.dumps({"pmids": sorted(pmids)}, ensure_ascii=False, indent=2),
         encoding="utf-8",

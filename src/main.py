@@ -11,13 +11,15 @@
 import argparse
 import datetime
 import json
+import os
 import pathlib
 import subprocess
 import sys
 
 from . import llm, pubmed, scoring
 from .config import load_config
-from .render import DATA_DIR, NOTES_DIR, update_index, write_note, _authors_str, _doi_from_articleids
+from .render import (DATA_DIR, NOTES_DIR, cleanup_old_notes, update_index,
+                     write_note, _authors_str, _doi_from_articleids)
 
 
 def _build_paper(rec: dict, today: datetime.date) -> dict:
@@ -113,6 +115,12 @@ def main() -> int:
     path = write_note(paper, reading, label)
     seen.add(paper["pmid"])
     scoring.save_seen(DATA_DIR, seen)
+
+    keep_days = max(0, int(os.environ.get("KEEP_DAYS", "0") or "0"))
+    removed = cleanup_old_notes(today, keep_days)
+    if removed:
+        print(f"      已清理 {removed} 篇非当天旧精读（仅保留最近 {keep_days} 天）")
+
     update_index()
     print(f"[5/5] 已写入: {path}")
 
