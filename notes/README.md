@@ -5,3 +5,4 @@
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
 | 2026-08-19 | [2026-08-19-42613270-the-expanding-functional-landscape-of.md](2026-08-19-42613270-the-expanding-functional-landscape-of.md) | The expanding functional landscape of alternative splicing in plants. |
+| 2026-08-19 | [2026-08-19-42612916-precision-nanoparticles-for-plant.md](2026-08-19-42612916-precision-nanoparticles-for-plant.md) | Precision Nanoparticles for Plant Thermotolerance: From Molecular Mechanisms to Scalable Agriculture. |
