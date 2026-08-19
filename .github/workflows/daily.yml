@@ -1,0 +1,50 @@
+name: Daily Biomedical Review Digestion
+
+on:
+  schedule:
+    # 每天 01:17 UTC（北京时间 09:17）运行一次
+    - cron: '17 1 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily digestion
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+          PUBMED_EMAIL: ${{ secrets.PUBMED_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS }}
+          RETMAX: ${{ vars.RETMAX }}
+          GIT_COMMIT: "true"
+        run: python -m src.main --commit
+
+      - name: Debug on failure
+        if: failure()
+        run: |
+          echo "::error::每日精读任务失败，请检查 DEEPSEEK_API_KEY 与 PUBMED_EMAIL 配置"
+          git diff --stat || true
