@@ -37,6 +37,10 @@ def _doi_from_articleids(rec: dict) -> str:
     return ""
 
 
+def _table_cell(value) -> str:
+    return str(value or "").replace("\n", " ").replace("|", "\\|").strip()
+
+
 def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
     date = paper["date"]
     title_en = paper["title"]
@@ -56,13 +60,23 @@ def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
     )
     key_points = "\n".join(f"{i}. {p}" for i, p in enumerate(reading["key_points"], 1))
 
+    sections = []
+    for i, sec in enumerate(reading.get("deep_sections", []), 1):
+        block = [f"### {sec.get('title', f'第 {i} 节')}"]
+        for row in sec.get("sections_en_zh", []):
+            block.append(f"**英文原文：**\n\n> {_table_cell(row.get('en',''))}\n")
+            block.append(f"**中文翻译：**\n\n> {_table_cell(row.get('zh',''))}\n")
+        block.append(f"> **深度解读：** {_table_cell(sec.get('deep_dive',''))}\n")
+        sections.append("\n\n".join(block))
+    sections_text = "\n\n".join(sections) if sections else "（无分节深度解读）"
+
     doi_line = f"[{doi}](https://doi.org/{urllib.parse.quote(doi)})" if doi else "—"
     pmc_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
     abstract_label = "全文精读" if "全文" in source_label else "摘要精读"
 
     return f"""# {title_en}
 
-> **每日精读 · {date}** ｜ **类型：{abstract_label}** ｜ 原文来源：{source_label}
+> **每日精读 · {date}** ｜ **类型：{abstract_label}** ｜ 原文来源：{source_label} ｜ 阅读时长：约 10-15 分钟
 
 ## 文章信息
 
@@ -85,23 +99,27 @@ def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
 
 {key_points}
 
-## 三、中英对照精读表
+## 三、分节深度解读（10-15 分钟精读）
+
+{sections_text}
+
+## 四、中英对照精读表
 
 | 英文原文 | 中文对照 |
 | --- | --- |
 {btable}
 
-## 四、专业术语表
+## 五、专业术语表
 
 | 术语 | 中文译名 | 简要解释 |
 | --- | --- | --- |
 {glossary}
 
-## 五、前沿性与时效性点评
+## 六、前沿性与时效性点评
 
 {reading['frontier_assessment']}
 
-## 六、关键词
+## 七、关键词
 
 {', '.join(reading['keywords'])}
 
@@ -109,10 +127,6 @@ def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
 
 *本精读由 DeepSeek 自动生成，仅供参考，请以原文为准。*
 """
-
-
-def _table_cell(value) -> str:
-    return str(value or "").replace("\n", " ").replace("|", "\\|").strip()
 
 
 def write_note(paper: dict, reading: dict, source_label: str) -> pathlib.Path:

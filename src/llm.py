@@ -9,8 +9,9 @@ import requests
 PROMPT_PATH = pathlib.Path(__file__).resolve().parent.parent / "prompts" / "deep_reader.txt"
 
 REQUIRED_FIELDS = (
-    "title_cn", "summary", "key_points", "bilingual_table", "glossary",
-    "frontier_assessment", "keywords",
+    "title_cn", "lead", "background", "summary", "key_points",
+    "section_digests", "bilingual_table", "glossary",
+    "frontier_assessment", "discussion_questions", "keywords",
 )
 
 
