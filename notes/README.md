@@ -4,5 +4,6 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
+| 2026-08-20 | [2026-08-20-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md](2026-08-20-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md) | GLP-1 receptor agonists for Alzheimer's disease: Lessons from trials and translational challenges. |
 | 2026-08-19 | [2026-08-19-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md](2026-08-19-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md) | GLP-1 receptor agonists for Alzheimer's disease: Lessons from trials and translational challenges. |
 | 2026-08-19 | [2026-08-19-42612618-cd8-stem-cell-like-memory-t-cells-unveiling-the.md](2026-08-19-42612618-cd8-stem-cell-like-memory-t-cells-unveiling-the.md) | CD8(+) stem cell-like memory T cells: Unveiling the potential for next-generation vaccination strategies. |
