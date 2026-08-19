@@ -55,12 +55,23 @@ BIOMEDICAL_KEYWORDS = (
 )
 
 
+PLANT_EXCLUDE_WORDS = (
+    "plant", "plants", "botan", "crop", "crops", "agricultur", "agronom",
+    "photosynth", "chloroplast", "arabidopsis", "rice plant", "wheat",
+    "maize", "soybean", "tomato", "potato", "seed", "grain", "cereal",
+    "horticultur", "greenhouse", "vegetable", "fruit tree", "tobacco",
+    "cannabis", "phytoremediat", "allelopath", "phytopatholog", "plantae",
+)
+
+
 def is_biomedical(title: str, abstract: str, journal: str) -> bool:
-    """标题+摘要需命中生物医学关键词，且期刊不在排除列表。"""
+    """标题+摘要需命中生物医学关键词，且期刊/内容不涉及植物/农业/动物。"""
     j = (journal or "").lower()
     if any(x in j for x in EXCLUDE_JOURNALS):
         return False
     text = f"{title} {abstract}".lower()
+    if any(x in text for x in PLANT_EXCLUDE_WORDS):
+        return False
     return any(kw in text for kw in BIOMEDICAL_KEYWORDS)
 
 
