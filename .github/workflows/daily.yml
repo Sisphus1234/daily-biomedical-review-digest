@@ -2,9 +2,8 @@ name: Daily Biomedical Review Digestion
 
 on:
   schedule:
-    # 每天 01:17 UTC（北京时间 09:17）运行一次
     - cron: '17 1 * * *'
-  workflow_dispatch: # 支持手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -45,6 +44,4 @@ jobs:
 
       - name: Debug on failure
         if: failure()
-        run: |
-          echo "::error::每日精读任务失败，请检查 DEEPSEEK_API_KEY 与 PUBMED_EMAIL 配置"
-          git diff --stat || true
+        run: echo "::error::Daily digestion failed. Check DEEPSEEK_API_KEY and PUBMED_EMAIL secrets."
