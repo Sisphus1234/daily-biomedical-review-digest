@@ -10,7 +10,8 @@ PROMPT_PATH = pathlib.Path(__file__).resolve().parent.parent / "prompts" / "deep
 
 REQUIRED_FIELDS = (
     "title_cn", "summary", "key_points", "deep_sections",
-    "bilingual_table", "glossary", "frontier_assessment", "keywords",
+    "original_excerpts", "bilingual_table", "glossary",
+    "frontier_assessment", "keywords",
 )
 
 

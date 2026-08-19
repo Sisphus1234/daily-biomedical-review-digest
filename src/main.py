@@ -81,8 +81,15 @@ def main() -> int:
 
     print(f"      候选 {len(prelim)} 篇，拉取前 10 篇摘要用于生物医学相关性筛选 ...")
     top_pmids = [c["pmid"] for c in prelim[:10]]
+
+    fulltext_candidates: dict[str, str] = {}
+    for pmid in top_pmids[:5]:
+        full = pubmed.fetch_pmc_fulltext(cfg, pmid)
+        if full:
+            fulltext_candidates[pmid] = full
+
     abstracts = pubmed.fetch_abstracts(cfg, top_pmids)
-    top = scoring.select_best(records, seen, today, abstracts)
+    top = scoring.select_best(records, seen, today, abstracts, fulltext_candidates)
 
     if not top:
         print("      候选均未通过生物医学相关性筛选，今日跳过。")
@@ -92,7 +99,10 @@ def main() -> int:
     rec = next(r for r in records if str(r.get("uid")) == top["pmid"])
 
     print("[3/5] 获取原文 ...")
-    text, label = pubmed.pick_abstract_or_fulltext(cfg, top["pmid"])
+    if top["pmid"] in fulltext_candidates:
+        text, label = fulltext_candidates[top["pmid"]][: cfg["max_text_chars"]], "PMC 开放获取全文"
+    else:
+        text, label = pubmed.pick_abstract_or_fulltext(cfg, top["pmid"])
     if not text:
         print("      无法获取摘要或全文，跳过该篇。")
         return 2

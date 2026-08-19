@@ -156,13 +156,17 @@ def select_best(
     seen: set,
     today: datetime.date,
     abstracts: dict[str, str],
+    fulltext: dict[str, str] | None = None,
 ) -> dict | None:
-    """按得分从高到低，挑出第一篇通过生物医学门控且可获取文本的论文。"""
+    """按得分从高到低，挑出第一篇通过生物医学门控的论文。若有全文则优先。"""
+    fulltext = fulltext or {}
     for cand in score_records(records, seen, today):
         rec = next(r for r in records if str(r.get("uid")) == cand["pmid"])
         title = cand["title"]
         journal = cand["journal"]
         abstract = abstracts.get(cand["pmid"], "")
-        if is_biomedical(title, abstract, journal):
-            return cand
+        if not is_biomedical(title, abstract, journal):
+            continue
+        cand["has_fulltext"] = bool(fulltext.get(cand["pmid"]))
+        return cand
     return None

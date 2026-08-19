@@ -71,6 +71,16 @@ def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
         sections.append("\n\n".join(block))
     sections_text = "\n\n".join(sections) if sections else "（无分节深度解读）"
 
+    excerpts = []
+    for i, ex in enumerate(reading.get("original_excerpts", []), 1):
+        block = [
+            f"### 原文摘录 {i}",
+            f"**英文原文：**\n\n> {_table_cell(ex.get('en',''))}\n",
+            f"**中文翻译：**\n\n> {_table_cell(ex.get('zh',''))}\n",
+        ]
+        excerpts.append("\n\n".join(block))
+    excerpts_text = "\n\n".join(excerpts) if excerpts else "（无原文摘录，当前为摘要精读）"
+
     doi_line = f"[{doi}](https://doi.org/{urllib.parse.quote(doi)})" if doi else "—"
     pmc_link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
     abstract_label = "全文精读" if "全文" in source_label else "摘要精读"
@@ -104,23 +114,27 @@ def render_markdown(paper: dict, reading: dict, source_label: str) -> str:
 
 {sections_text}
 
-## 四、中英对照精读表
+## 四、原文精读摘录（学英语/看综述写作）
+
+{excerpts_text}
+
+## 五、中英对照精读表
 
 | 英文原文 | 中文对照 |
 | --- | --- |
 {btable}
 
-## 五、专业术语表
+## 六、专业术语表
 
 | 术语 | 中文译名 | 简要解释 |
 | --- | --- | --- |
 {glossary}
 
-## 六、前沿性与时效性点评
+## 七、前沿性与时效性点评
 
 {reading['frontier_assessment']}
 
-## 七、关键词
+## 八、关键词
 
 {', '.join(reading['keywords'])}
 

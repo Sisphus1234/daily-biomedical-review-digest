@@ -23,7 +23,7 @@ def load_config() -> dict:
         "lookback_days": _get_int("LOOKBACK_DAYS", 5),
         "retmax": _get_int("RETMAX", 30),
         "git_commit": os.environ.get("GIT_COMMIT", "false").strip().lower() == "true",
-        "max_text_chars": _get_int("MAX_TEXT_CHARS", 20000),
+        "max_text_chars": _get_int("MAX_TEXT_CHARS", 60000),
         "temperature": float(os.environ.get("LLM_TEMPERATURE", "0.2").strip() or "0.2"),
     }
 
