@@ -50,7 +50,10 @@ def search_latest_reviews(cfg, days: int | None = None) -> list[dict]:
     term = (
         'review[pt] '
         f'AND ("last {days} days"[dp]) '
-        'AND english[la] AND hasabstract[text]'
+        'AND english[la] AND hasabstract[text] '
+        'AND humans[MeSH] '
+        'NOT (plant*[tiab] OR botanical*[tiab] OR crop*[tiab] OR agricult*[tiab] '
+        'OR animal*[tiab] OR veterinary*[tiab] OR plant[ta])'
     )
     resp = _get(cfg, f"{EUTILS}/esearch.fcgi", {
         "db": "pubmed",

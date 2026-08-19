@@ -34,6 +34,9 @@ EXCLUDE_JOURNALS = (
     "cognitive sciences", "cognitive", "psycholog", "behavioral and brain",
     "philosophy", "mathematics", "pure and applied", "physical review",
     "theoretical computer science", "computer vision", "neural networks",
+    "plant", "botan", "crop", "agricultur", "agronom", "forest",
+    "animal", "veterinary", "zoolog", "entomolog", "insect",
+    "phyto", "food science", "nutrition research", "marine", "aquacultur",
 )
 
 BIOMEDICAL_KEYWORDS = (

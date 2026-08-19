@@ -6,3 +6,4 @@
 | --- | --- | --- |
 | 2026-08-19 | [2026-08-19-42613270-the-expanding-functional-landscape-of.md](2026-08-19-42613270-the-expanding-functional-landscape-of.md) | The expanding functional landscape of alternative splicing in plants. |
 | 2026-08-19 | [2026-08-19-42612916-precision-nanoparticles-for-plant.md](2026-08-19-42612916-precision-nanoparticles-for-plant.md) | Precision Nanoparticles for Plant Thermotolerance: From Molecular Mechanisms to Scalable Agriculture. |
+| 2026-08-19 | [2026-08-19-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md](2026-08-19-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md) | GLP-1 receptor agonists for Alzheimer's disease: Lessons from trials and translational challenges. |
