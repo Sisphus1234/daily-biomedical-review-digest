@@ -11,12 +11,47 @@ TIER1_JOURNALS = (
     "immunity", "science translational medicine", "nature biotechnology",
     "nature genetics", "nature immunology", "nature cancer", "nature oncology",
     "cancer discovery", "bmj", "cell research", "nature reviews drug discovery",
+    "lancet oncology", "lancet neurology", "lancet psychiatry", "lancet diabetes",
+    "jama oncology", "jama cardiology", "circulation", "european heart journal",
+    "gastroenterology", "gut", "hepatology", "annals of internal medicine",
+    "jacc", "diabetes care", "jco", "journal of clinical oncology",
 )
 TIER2_JOURNALS = (
     "nature communications", "cell reports", "pnas", "elife",
     "trends in ", "annual review of ", "signal transduction and targeted therapy",
     "molecular cancer", "cancer cell", "journal of clinical investigation",
     "plos medicine", "nature metabolism", "nature microbiology", "nature cell biology",
+    "cell metabolism", "cell host & microbe", "cell stem cell", "cell death",
+    "journal of hepatology", "alzheimer's & dementia", "neurology", "stroke",
+    "the lancet respiratory medicine", "the lancet infectious diseases",
+    "american journal of respiratory and critical care medicine", "chest",
+    "hypertension", "diabetes", "diabetologia", "nephrology dialysis transplantation",
+    "kidney international", "journal of the american society of nephrology",
+)
+
+COMMON_DISEASES = (
+    "hypertension", "blood pressure", "diabetes", "type 2 diabetes", "obesity",
+    "cardiovascular disease", "coronary", "coronary artery disease", "heart failure",
+    "myocardial infarction", "stroke", "cerebrovascular", "atherosclerosis",
+    "atrial fibrillation", "copd", "chronic obstructive pulmonary", "asthma",
+    "chronic kidney disease", "kidney disease", "liver disease", "fatty liver",
+    "nonalcoholic steatohepatitis", "hepatitis", "cirrhosis", "lung cancer",
+    "breast cancer", "colorectal cancer", "prostate cancer", "gastric cancer",
+    "colorectal", "pancreatic cancer", "thyroid", "osteoporosis", "osteoarthritis",
+    "depression", "anxiety", "alzheimer", "dementia", "parkinson", "epilepsy",
+    "chronic pain", "low back pain", "anemia", "hyperlipidemia", "dyslipidemia",
+    "hypercholesterolemia", "gout", "rheumatoid arthritis", "psoriasis",
+    "irritable bowel syndrome", "gastroesophageal reflux", "peptic ulcer",
+    "urinary tract infection", "pneumonia", "tuberculosis", "covid-19", "influenza",
+    "migraine", "insomnia", "sleep apnea", "chronic bronchitis", "bronchitis",
+    "thyroid disease", "hypothyroidism", "hyperthyroidism", "metabolic syndrome",
+    "pre-diabetes", "prediabetes", "sarcopenia", "frailty", "allergy", "eczema",
+    "psoriatic arthritis", "systemic lupus", "multiple sclerosis", "anemia",
+    "deep vein thrombosis", "pulmonary embolism", "sepsis", "septic shock",
+    "chronic inflammation", "neurodegenerative", "glaucoma", "cataract",
+    "macular degeneration", "deafness", "hearing loss", "caries", "periodontal",
+    "diabetic retinopathy", "nephropathy", "neuropathy", "peripheral arterial",
+    "carotid stenosis", "aneurysm", "arrhythmia", "valvular", "pericarditis",
 )
 
 FRONTIER_KEYWORDS = (
@@ -111,9 +146,9 @@ def _days_ago(pubdate: str, today: datetime.date) -> int | None:
 def _journal_score(journal: str) -> int:
     j = (journal or "").lower()
     if any(t in j for t in TIER1_JOURNALS):
-        return 60
+        return 80
     if any(t in j for t in TIER2_JOURNALS):
-        return 35
+        return 50
     return 0
 
 
@@ -127,7 +162,19 @@ def _keyword_score(title: str, abstract_hint: str = "") -> int:
     return min(score, 40)
 
 
-def score_records(records: list[dict], seen: set, today: datetime.date) -> list[dict]:
+def _disease_score(title: str, abstract_hint: str = "") -> int:
+    """常见病命中加权：命中越多越优先，封顶 40 分，鼓励选常见病/高发病。"""
+    text = f"{title} {abstract_hint}".lower()
+    text = re.sub(r"[^a-z0-9 ]", " ", text)
+    score = 0
+    for kw in COMMON_DISEASES:
+        if kw in text:
+            score += 10
+    return min(score, 40)
+
+
+def score_records(records: list[dict], seen: set, today: datetime.date, abstracts: dict[str, str] | None = None) -> list[dict]:
+    abstracts = abstracts or {}
     scored = []
     for rec in records:
         pmid = str(rec.get("uid"))
@@ -138,7 +185,13 @@ def score_records(records: list[dict], seen: set, today: datetime.date) -> list[
         recency = 100 if days is None else max(0, 100 - days * 15)
         journal = rec.get("fulljournalname", "")
         title = rec.get("title", "")
-        score = recency + _journal_score(journal) + _keyword_score(title)
+        abstract = abstracts.get(pmid, "")
+        score = (
+            recency
+            + _journal_score(journal)
+            + _keyword_score(title, abstract)
+            + _disease_score(title, abstract)
+        )
         scored.append({
             "pmid": pmid,
             "title": title,
@@ -160,7 +213,7 @@ def select_best(
 ) -> dict | None:
     """按得分从高到低，挑出第一篇通过生物医学门控的论文。若有全文则优先。"""
     fulltext = fulltext or {}
-    for cand in score_records(records, seen, today):
+    for cand in score_records(records, seen, today, abstracts):
         rec = next(r for r in records if str(r.get("uid")) == cand["pmid"])
         title = cand["title"]
         journal = cand["journal"]
