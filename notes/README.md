@@ -4,6 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-20 | [2026-08-20-42618306-glucagon-like-peptide-1-receptor-agonists-for.md](2026-08-20-42618306-glucagon-like-peptide-1-receptor-agonists-for.md) | Glucagon-like peptide-1 receptor agonists for primary cardiovascular disease prevention in type 2 diabetes, a systematic review. |
-| 2026-08-20 | [2026-08-20-42616904-hope-for-heart-failure-with-preserved-ejection.md](2026-08-20-42616904-hope-for-heart-failure-with-preserved-ejection.md) | Hope for heart failure with preserved ejection fraction? |
-| 2026-08-20 | [2026-08-20-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md](2026-08-20-42612619-glp-1-receptor-agonists-for-alzheimers-disease.md) | GLP-1 receptor agonists for Alzheimer's disease: Lessons from trials and translational challenges. |
+| 2026-08-22 | [2026-08-22-42627455-the-endocannabinoidome-microbiota-axis-in.md](2026-08-22-42627455-the-endocannabinoidome-microbiota-axis-in.md) | The endocannabinoidome-microbiota axis in obesity: a potential link to colorectal cancer development. |
