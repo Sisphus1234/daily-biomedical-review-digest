@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-22 | [2026-08-22-42627455-the-endocannabinoidome-microbiota-axis-in.md](2026-08-22-42627455-the-endocannabinoidome-microbiota-axis-in.md) | The endocannabinoidome-microbiota axis in obesity: a potential link to colorectal cancer development. |
+| 2026-08-24 | [2026-08-24-42632748-role-of-tinospora-cordifolia-willd-hook-f-in.md](2026-08-24-42632748-role-of-tinospora-cordifolia-willd-hook-f-in.md) | Role of Tinospora cordifolia (Willd.) Hook. F. in neurological disorders: A comprehensive review and network pharmacology-based analysis. |
