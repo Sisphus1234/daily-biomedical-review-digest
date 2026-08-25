@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-24 | [2026-08-24-42632748-role-of-tinospora-cordifolia-willd-hook-f-in.md](2026-08-24-42632748-role-of-tinospora-cordifolia-willd-hook-f-in.md) | Role of Tinospora cordifolia (Willd.) Hook. F. in neurological disorders: A comprehensive review and network pharmacology-based analysis. |
+| 2026-08-25 | [2026-08-25-42636268-pragmatic-clinical-trials-in-internal-medicine.md](2026-08-25-42636268-pragmatic-clinical-trials-in-internal-medicine.md) | Pragmatic Clinical Trials in Internal Medicine: Design Principles and Context-Specific Implementation. |
