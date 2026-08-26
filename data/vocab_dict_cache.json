@@ -633,5 +633,850 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "write": {
+    "ipa": "/ɹaɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act or style of writing.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The operation of storing data, as in memory or onto disk.",
+        "example": "How many writes per second can this hard disk handle?"
+      },
+      {
+        "pos": "verb",
+        "def": "To form letters, words or symbols on a surface in order to communicate.",
+        "example": "The pupil wrote his name on the paper."
+      },
+      {
+        "pos": "verb",
+        "def": "To be the author of (a book, article, poem, etc.).",
+        "example": "My uncle writes newspaper articles for The Herald."
+      },
+      {
+        "pos": "verb",
+        "def": "To send written information to.",
+        "example": "(UK) Please write to me when you get there."
+      },
+      {
+        "pos": "verb",
+        "def": "To show (information, etc) in written form.",
+        "example": "The due day of the homework is written in the syllabus."
+      },
+      {
+        "pos": "verb",
+        "def": "To be an author.",
+        "example": "I write for a living."
+      },
+      {
+        "pos": "verb",
+        "def": "(with to) To record data mechanically or electronically.",
+        "example": "The computer writes to the disk faster than it reads from it."
+      },
+      {
+        "pos": "verb",
+        "def": "(of an exam, a document, etc.) To fill in, to complete using words.",
+        "example": "I was very anxious to know my score after I wrote the test."
+      },
+      {
+        "pos": "verb",
+        "def": "To impress durably; to imprint; to engrave.",
+        "example": "truth written on the heart"
+      },
+      {
+        "pos": "verb",
+        "def": "To make known by writing; to record; to prove by one's own written testimony; often used reflexively.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To sell (an option or other derivative).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "new": {
+    "ipa": "/njʉː/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Things that are new.",
+        "example": "Out with the old, in with the new."
+      },
+      {
+        "pos": "noun",
+        "def": "A kind of light beer.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A naval cadet who has just embarked on training.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "section": {
+    "ipa": "/ˈsɛkʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A cutting; a part cut out from the rest of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A part, piece, subdivision of anything.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A part of a document.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An act or instance of cutting.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A cross-section (image that shows an object as if cut along a plane).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An incision or the act of making an incision.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A thin slice of material prepared as a specimen for research.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A taxonomic rank below the genus (and subgenus if present), but above the species.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An informal taxonomic rank below the order ranks and above the family ranks.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A group of 10-15 soldiers led by a non-commissioned officer and forming part of a platoon.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A right inverse.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A piece of residential land; a plot.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A one-mile square area of land, defined by a government survey.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any of the squares, each containing 640 acres, into which the public lands of the United States were divided.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The symbol §, denoting a section of a document.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sequence of rock layers.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "word": {
+    "ipa": "/wɜːd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Something like such a unit of language:",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The fact or act of speaking, as opposed to taking action. .",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Something that someone said; a comment, utterance; speech.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A watchword or rallying cry, a verbal signal (even when consisting of multiple words).",
+        "example": "mum's the word"
+      },
+      {
+        "pos": "noun",
+        "def": "A proverb or motto.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "News; tidings (used without an article).",
+        "example": "Have you had any word from John yet?"
+      },
+      {
+        "pos": "noun",
+        "def": "An order; a request or instruction; an expression of will.",
+        "example": "Don't fire till I give the word"
+      },
+      {
+        "pos": "noun",
+        "def": "A promise; an oath or guarantee.",
+        "example": "I give you my word that I will be there on time."
+      },
+      {
+        "pos": "noun",
+        "def": "A brief discussion or conversation.",
+        "example": "Can I have a word with you?"
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) See words.",
+        "example": "There had been words between him and the secretary about the outcome of the meeting."
+      },
+      {
+        "pos": "noun",
+        "def": "(sometimes Word) Communication from God; the message of the Christian gospel; the Bible, Scripture.",
+        "example": "Her parents had lived in Botswana, spreading the word among the tribespeople."
+      },
+      {
+        "pos": "noun",
+        "def": "(sometimes Word) Logos, Christ.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "mark": {
+    "ipa": "/mɑɹk/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "(heading) Boundary, land within a boundary.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(heading) Characteristic, sign, visible impression.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(heading) Indicator of position, objective etc.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(heading) Attention.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "may": {
+    "ipa": "/meɪ/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To be strong; to have power (over).",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "(auxiliary) To be able; can.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To be able to go.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "(modal auxiliary verb, defective) To have permission to, be allowed. Used in granting permission and in questions to make polite requests.",
+        "example": "you may smoke outside;  may I sit there?"
+      },
+      {
+        "pos": "verb",
+        "def": "(modal auxiliary verb, defective) Expressing a present possibility; possibly.",
+        "example": "he may be lying;  Schrödinger's cat may or may not be in the box"
+      },
+      {
+        "pos": "verb",
+        "def": "(subjunctive present, defective) Expressing a wish (with present subjunctive effect).",
+        "example": "may you win;  may the weather be sunny"
+      },
+      {
+        "pos": "verb",
+        "def": "Used in modesty, courtesy, or concession, or to soften a question or remark.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "take": {
+    "ipa": "/teɪk/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The or an act of taking.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Something that is taken; a haul.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An interpretation or view, opinion or assessment; perspective.",
+        "example": "What's your take on this issue, Fred?"
+      },
+      {
+        "pos": "noun",
+        "def": "An approach, a (distinct) treatment.",
+        "example": "a new take on a traditional dish"
+      },
+      {
+        "pos": "noun",
+        "def": "A scene recorded (filmed) at one time, without an interruption or break; a recording of such a scene.",
+        "example": "Act seven, scene three, take two."
+      },
+      {
+        "pos": "noun",
+        "def": "A recording of a musical performance made during an uninterrupted single recording period.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A visible (facial) response to something, especially something unexpected; a facial gesture in response to an event.",
+        "example": "I did a take when I saw the new car in the driveway."
+      },
+      {
+        "pos": "noun",
+        "def": "An instance of successful inoculation/vaccination.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A catch of the ball (in cricket, especially one by the wicket-keeper).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The quantity of copy given to a compositor at one time.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "read": {
+    "ipa": "/ɹiːd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A reading or an act of reading, especially an actor's part of a play.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in combination) Something to be read; a written work.",
+        "example": "His thrillers are always a gripping read."
+      },
+      {
+        "pos": "noun",
+        "def": "A person's interpretation or impression of something.",
+        "example": "What's your read of the current political situation?"
+      },
+      {
+        "pos": "noun",
+        "def": "An instance of reading.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "would": {
+    "ipa": "/wʊd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Something that would happen, or would be the case, under different circumstances; a potentiality.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "go": {
+    "ipa": "/ɡəʉ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of going.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A turn at something, or in something (e.g. a game).",
+        "example": "It’s your go."
+      },
+      {
+        "pos": "noun",
+        "def": "An attempt, a try.",
+        "example": "I’ll give it a go."
+      },
+      {
+        "pos": "noun",
+        "def": "An approval or permission to do something, or that which has been approved.",
+        "example": "We will begin as soon as the boss says it's a go."
+      },
+      {
+        "pos": "noun",
+        "def": "An act; the working or operation.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A circumstance or occurrence; an incident, often unexpected.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The fashion or mode.",
+        "example": "quite the go"
+      },
+      {
+        "pos": "noun",
+        "def": "Noisy merriment.",
+        "example": "a high go"
+      },
+      {
+        "pos": "noun",
+        "def": "A glass of spirits; a quantity of spirits.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Power of going or doing; energy; vitality; perseverance.",
+        "example": "There is no go in him."
+      },
+      {
+        "pos": "noun",
+        "def": "The situation where a player cannot play a card which will not carry the aggregate count above thirty-one.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A period of activity.",
+        "example": "ate it all in one go"
+      },
+      {
+        "pos": "noun",
+        "def": "(British slang) A dandy; a fashionable person.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "hear": {
+    "ipa": "/hɪə(ɹ)/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "(stative) To perceive sounds through the ear.",
+        "example": "I was deaf, and now I can hear."
+      },
+      {
+        "pos": "verb",
+        "def": "(stative) To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.",
+        "example": "I heard a sound from outside the window."
+      },
+      {
+        "pos": "verb",
+        "def": "To exercise this faculty intentionally; to listen to.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To listen favourably to; to grant (a request etc.).",
+        "example": "Eventually the king chose to hear her entreaties."
+      },
+      {
+        "pos": "verb",
+        "def": "To receive information about; to come to learn of.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "(with from) To be contacted by.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To listen to (a person, case) in a court of law; to try.",
+        "example": "Your case will be heard at the end of the month."
+      },
+      {
+        "pos": "verb",
+        "def": "To sympathize with; to understand the feelings or opinion of.",
+        "example": "You're tired of all the ads on TV? I hear ya."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "give": {
+    "ipa": "/ɡɪv/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilence.",
+        "example": "There is no give in his dogmatic religious beliefs."
+      },
+      {
+        "pos": "verb",
+        "def": "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "(ditransitive) To estimate or predict (a duration or probability) for (something).",
+        "example": "I give it a 95% chance of success."
+      },
+      {
+        "pos": "verb",
+        "def": "To yield slightly when a force is applied.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To collapse under pressure or force.",
+        "example": "One pillar gave, then more, and suddenly the whole floor pancaked onto the floor below."
+      },
+      {
+        "pos": "verb",
+        "def": "To provide, as, a service or a broadcast.",
+        "example": "They're giving my favorite show!"
+      },
+      {
+        "pos": "verb",
+        "def": "To lead (onto or into).",
+        "example": "The master bedroom gives onto a spacious balcony."
+      },
+      {
+        "pos": "verb",
+        "def": "To provide a view of.",
+        "example": "His window gave the park."
+      },
+      {
+        "pos": "verb",
+        "def": "To exhibit as a product or result; to produce; to yield.",
+        "example": "The number of men, divided by the number of ships, gives four hundred to each ship."
+      },
+      {
+        "pos": "verb",
+        "def": "To cause; to make; used with the infinitive.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To cause (someone) to have; produce in (someone); effectuate.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To allow or admit by way of supposition; to concede.",
+        "example": "He can be bad-tempered, I'll give you that, but he's a hard worker."
+      },
+      {
+        "pos": "verb",
+        "def": "To attribute; to assign; to adjudge.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To communicate or announce (advice, tidings, etc.); to pronounce or utter (an opinion, a judgment, a shout, etc.).",
+        "example": "The umpire finally gave his decision: the ball was out."
+      },
+      {
+        "pos": "verb",
+        "def": "To grant power or permission to; to allow.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To devote or apply (oneself).",
+        "example": "That boy is given to fits of bad temper."
+      },
+      {
+        "pos": "verb",
+        "def": "To become soft or moist.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To shed tears; to weep.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To have a misgiving.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To be going on, to be occurring",
+        "example": "What gives?"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "base": {
+    "ipa": "/beɪs/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Something from which other things extend; a foundation.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The starting point of a logical deduction or thought; basis.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A permanent structure for housing military personnel and material.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The place where decisions for an organization are made; headquarters.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A basic but essential component or ingredient.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A substance used as a mordant in dyeing.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Foundation: a cosmetic cream to make the face appear uniform.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any of a class of generally water-soluble compounds, having bitter taste, that turn red litmus blue, and react with acids to form salts.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Important areas in games and sports.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The lowermost part of a column, between the shaft and the pedestal or pavement.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A nucleotide's nucleobase in the context of a DNA or RNA biopolymer.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The end of a leaf, petal or similar organ where it is attached to its support.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The name of the controlling terminal of a bipolar transistor (BJT).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The lowest side of a in a triangle or other polygon, or the lowest face of a cone, pyramid or other polyhedron laid flat.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The lowest third of a shield or escutcheon.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The lower part of the field. See escutcheon.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A number raised to the power of an exponent.",
+        "example": "The logarithm to base 2 of 8 is 3."
+      },
+      {
+        "pos": "noun",
+        "def": "The set of sets from which a topology is generated.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A topological space, looked at in relation to one of its covering spaces, fibrations, or bundles.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sequence of elements not jointly stabilized by any nontrivial group element.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(acrobatics, cheerleading) In hand-to-hand balance, the person who supports the flyer; the person that remains in contact with the ground.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A morpheme (or morphemes) that serves as a basic foundation on which affixes can be attached.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The smallest kind of cannon.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The housing of a horse.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) A kind of skirt (often of velvet or brocade, but sometimes of mailed armour) which hung from the middle to about the knees, or lower.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The lower part of a robe or petticoat.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An apron.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A line in a survey which, being accurately determined in length and position, serves as the origin from which to compute the distances and positions of any points or objects connected with it by a system of triangles.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A group of voters who almost always support a single party's candidates for elected office.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The forces and relations of production that produce the necessities and amenities of life.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A material that holds paint or other materials together; a binder.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Short for base leg.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "get": {
+    "ipa": "/ɡɛt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Offspring.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Lineage.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A difficult return or block of a shot.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Something gained; an acquisition.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "two": {
+    "ipa": "/tuː/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The digit/figure 2.",
+        "example": "The number 2202 contains three twos."
+      },
+      {
+        "pos": "noun",
+        "def": "A two-dollar bill.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A child aged two.",
+        "example": "This toy is suitable for the twos and threes."
+      },
+      {
+        "pos": "noun",
+        "def": "A playing card featuring two pips.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
