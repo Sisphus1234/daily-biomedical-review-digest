@@ -105,8 +105,9 @@ def main() -> int:
     if progress.get("last_date") is None:
         cursor = cfg["vocab_start"]
 
-    if not args.force and progress.get("last_date") == date_str:
-        print(f"今日（{date_str}）词汇已生成，跳过。使用 --force 可重新生成。")
+    last_date = progress.get("last_date")
+    if not args.force and last_date and last_date >= date_str:
+        print(f"词汇已生成至 {last_date}（{date_str} 无需重复生成）。使用 --force 可重新生成。")
         return 0
 
     per_day = cfg["vocab_per_day"]
