@@ -1843,5 +1843,525 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "budget": {
+    "ipa": "/ˈbʌdʒ.ɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An itemized summary of intended expenditure; usually coupled with expected revenue.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A wallet, purse or bag.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A compact collection of things.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A socket in which the end of a cavalry carbine rests.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "ban": {
+    "ipa": "/bæn/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Prohibition.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A public proclamation or edict; a summons by public proclamation. Chiefly, in early use, a summons to arms.",
+        "example": "Bans is common and ordinary amongst the Feudists, and signifies a proclamation, or any public notice."
+      },
+      {
+        "pos": "noun",
+        "def": "The gathering of the (French) king's vassals for war; the whole body of vassals so assembled, or liable to be summoned; originally, the same as arrière-ban: in the 16th c., French usage created a distinction between ban and arrière-ban, for which see the latter word.",
+        "example": "France was at such a Pinch..that they call'd their Ban and Arriere Ban, the assembling whereof had been long discussed, and in a manner antiquated."
+      },
+      {
+        "pos": "noun",
+        "def": "A curse or anathema.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A pecuniary mulct or penalty laid upon a delinquent for offending against a ban, such as a mulct paid to a bishop by one guilty of sacrilege or other crimes.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "boost": {
+    "ipa": "/buːst/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A push from behind, as to one who is endeavoring to climb.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Something that helps, or adds power or effectiveness; assistance.",
+        "example": "The controversy gave a boost to the author's sales."
+      },
+      {
+        "pos": "noun",
+        "def": "(automotive engineering) A positive intake manifold pressure in cars with turbochargers or superchargers.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "productivity": {
+    "ipa": "/ˌpɹɒdʌkˈtɪvəti/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The state of being productive, fertile or efficient",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The rate at which goods or services are produced by a standard population of workers",
+        "example": "You can see the computer age everywhere but in the productivity statistics."
+      },
+      {
+        "pos": "noun",
+        "def": "The rate at which crops are grown on a standard area of land",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "identity": {
+    "ipa": "/aɪˈdɛntəti/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Sameness, identicalness; the quality or fact of (several specified things) being the same.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The difference or character that marks off an individual or collective from the rest of the same kind, selfhood, sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themself.",
+        "example": "I've been through so many changes, I have no sense of identity."
+      },
+      {
+        "pos": "noun",
+        "def": "A name or persona—a mask or appearance one presents to the world—by which one is known.",
+        "example": "This criminal has taken on several identities."
+      },
+      {
+        "pos": "noun",
+        "def": "An equation which always holds true regardless of the choice of input variables.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any function which maps all elements of its domain to themselves.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A well-known or famous person.",
+        "example": "2013 April 4, \"Cricket identities consult lawyers\", New Zealand Herald"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "web": {
+    "ipa": "/wɛb/",
+    "defs": [
+      {
+        "pos": "proper noun",
+        "def": "The World Wide Web.",
+        "example": "Some of that content is now only available on the Web."
+      },
+      {
+        "pos": "noun",
+        "def": "The silken structure which a spider builds using silk secreted from the spinnerets at the caudal tip of its abdomen; a spiderweb.",
+        "example": "The sunlight glistened in the dew on the web."
+      },
+      {
+        "pos": "noun",
+        "def": "(by extension) Any interconnected set of persons, places, or things, which when diagrammed resembles a spider's web.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(sometimes capitalized) Specifically, the World Wide Web.",
+        "example": "Let me search the web for that."
+      },
+      {
+        "pos": "noun",
+        "def": "The part of a baseball mitt between the forefinger and thumb, the webbing.",
+        "example": "He caught the ball in the web."
+      },
+      {
+        "pos": "noun",
+        "def": "A latticed or woven structure.",
+        "example": "The gazebo's roof was a web made of thin strips of wood."
+      },
+      {
+        "pos": "noun",
+        "def": "(usually with \"spin\", \"weave\", or similar verbs) A tall tale with more complexity than a myth or legend.",
+        "example": "Careful—she knows how to spin a good web, but don't lean too hard on what she says."
+      },
+      {
+        "pos": "noun",
+        "def": "A plot or scheme.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The interconnection between flanges in structural members, increasing the effective lever arm and so the load capacity of the member.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The thinner vertical section of a railway rail between the top (head) and bottom (foot) of the rail.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A fold of tissue connecting the toes of certain birds, or of other animals.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The series of barbs implanted on each side of the shaft of a feather, whether stiff and united together by barbules, as in ordinary feathers, or soft and separate, as in downy feathers.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A continuous strip of material carried by rollers during processing.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(lithography) A long sheet of paper which is fed from a roll into a printing press, as opposed to individual sheets of paper.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A band of webbing used to regulate the extension of the hood of a carriage.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A thin metal sheet, plate, or strip, as of lead.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A major broadcasting network.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "recession": {
+    "ipa": "/ɹɪˈsɛʃn̩/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act or an instance of receding or withdrawing.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A period of reduced economic activity",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The ceremonial filing out of clergy and/or choir at the end of a church service.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The act of ceding something back.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "fat": {
+    "ipa": "/fæt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A specialized animal tissue with a high oil content, used for long-term storage of energy.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A refined substance chemically resembling the oils in animal fat.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "That part of an organization deemed wasteful.",
+        "example": "We need to trim the fat in this company"
+      },
+      {
+        "pos": "noun",
+        "def": "An erection.",
+        "example": "I saw Daniel crack a fat."
+      },
+      {
+        "pos": "noun",
+        "def": "A poorly played shot where the ball is struck by the top part of the club head. (see also thin, shank, toe)",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The best or richest productions; the best part.",
+        "example": "to live on the fat of the land"
+      },
+      {
+        "pos": "noun",
+        "def": "Work containing much blank, or its equivalent, and therefore profitable to the compositor.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A fat person.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A beef cattle fattened for sale.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "obesity": {
+    "ipa": "",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The state of being obese due to an excess of body fat.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "genetic": {
+    "ipa": "[d͡ʒəˈnɛtɪk]",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Relating to genetics or genes.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Caused by genes.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of or relating to origin (genesis).",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Based on shared membership in a linguistic family.",
+        "example": "Chinese has borrowed several words from English, but it does not have a genetic relationship to English."
+      },
+      {
+        "pos": "adjective",
+        "def": "Based on a shared membership in a religious family.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "competitive": {
+    "ipa": "/kəmˈpɛtɪtɪv/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Capable of competing successfully",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of or pertaining to competition",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "(of someone's character) inclined to compete",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Inhibiting the action of an enzyme by binding with it",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "(euphemistically, of prices) cheap, especially used of quality products",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "revenue": {
+    "ipa": "/ˈɹɛvənjuː/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The income returned by an investment.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The total income received from a given source.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "All income generated for some political entity's treasury by taxation and other means.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The total sales; turnover.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The net income from normal business operations; net sales.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A return; something paid back.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "sector": {
+    "ipa": "/ˈsɛk.təɹ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Section",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Zone (designated area).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Part of a circle, extending to the center",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Fixed-sized unit (traditionally 512 bytes) of sequential data stored on a track of a digital medium (compare to block)",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An area designated by boundaries within which a unit operates, and for which it is responsible",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "One of the subdivisions of a coastal frontier",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A fictional region of space designated for navigational or governance purposes.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(calculation) an instrument consisting of two rulers of equal length joined by a hinge.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A field of economic activity",
+        "example": "public sector;  private sector"
+      },
+      {
+        "pos": "noun",
+        "def": "A toothed gear whose face is the arc of a circle.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A fixed, continuous section of the track, such that sectors do not overlap but all sectors make up the whole track.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "calorie": {
+    "ipa": "/ˈkæləɹi/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "(nutrition) Kilogram calorie or large calorie. A unit of energy 1000 times larger than the gram calorie. It is equivalent to the gram kilocalorie, approximately 4.2 kilojoules.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The gram calorie or small calorie, a non-SI unit of energy, equivalent to approximately 4.2 joules. This unit was widely used in chemistry and physics, being the amount of energy needed to raise the temperature of 1 gram of water by 1 °C.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "cite": {
+    "ipa": "/saɪt/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To quote; to repeat, as a passage from a book, or the words of another.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To list the source(s) from which one took information, words or literary or verbal context.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To summon officially or authoritatively to appear in court.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
