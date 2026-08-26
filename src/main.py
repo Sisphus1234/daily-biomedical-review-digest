@@ -19,7 +19,7 @@ import sys
 from . import llm, pubmed, scoring
 from .config import load_config
 from .render import (DATA_DIR, NOTES_DIR, cleanup_old_notes, update_index,
-                     write_index_html, write_note, _authors_str, _doi_from_articleids)
+                     write_note, _authors_str, _doi_from_articleids)
 
 
 def _build_paper(rec: dict, today: datetime.date) -> dict:
@@ -132,7 +132,6 @@ def main() -> int:
         print(f"      已清理 {removed} 篇非当天旧精读（仅保留最近 {keep_days} 天）")
 
     update_index()
-    write_index_html(paper, reading, label)
     print(f"[5/5] 已写入: {path}")
 
     if cfg["git_commit"]:

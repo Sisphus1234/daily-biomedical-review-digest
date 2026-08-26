@@ -5,8 +5,3 @@ __pycache__/
 venv/
 .pytest_cache/
 *.log
-run_out.log
-run_err.log
-run_log.txt
-ai-mastery-*.md
-weather-agent.ps1

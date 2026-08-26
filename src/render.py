@@ -1,7 +1,6 @@
 """把精读结果渲染为 Markdown 文件并维护索引。"""
 
 import datetime
-import html
 import pathlib
 import re
 import urllib.parse
@@ -170,85 +169,6 @@ def cleanup_old_notes(today: datetime.date, keep_days: int = 1) -> int:
             p.unlink(missing_ok=True)
             removed += 1
     return removed
-
-
-def _md_to_html(md_text: str) -> str:
-    """把精读 Markdown 转成简单 HTML（处理标题/引用/粗体/表格/列表/段落）。"""
-    out = []
-    lines = md_text.splitlines()
-    in_table = False
-    table_rows = []
-    for line in lines:
-        stripped = line.strip()
-        if stripped.startswith("# "):
-            out.append(f"<h1>{html.escape(stripped[2:])}</h1>")
-        elif stripped.startswith("## "):
-            out.append(f"<h2>{html.escape(stripped[3:])}</h2>")
-        elif stripped.startswith("### "):
-            out.append(f"<h3>{html.escape(stripped[4:])}</h3>")
-        elif stripped.startswith("|"):
-            cells = [c.strip() for c in stripped.strip("|").split("|")]
-            if in_table:
-                if all(set(c) <= set("-: ") for c in cells):
-                    continue
-                table_rows.append(cells)
-            else:
-                in_table = True
-                table_rows.append(cells)
-        else:
-            if in_table:
-                out.append("<table><thead><tr>" + "".join(f"<th>{html.escape(c)}</th>" for c in table_rows[0]) + "</tr></thead><tbody>")
-                for row in table_rows[1:]:
-                    out.append("<tr>" + "".join(f"<td>{html.escape(c)}</td>" for c in row) + "</tr>")
-                out.append("</tbody></table>")
-                in_table = False
-                table_rows = []
-            if stripped.startswith(">"):
-                content = html.escape(stripped.lstrip("> ")).replace("**", "")
-                out.append(f"<blockquote>{content}</blockquote>")
-            elif stripped:
-                out.append(f"<p>{html.escape(stripped)}</p>")
-    if in_table:
-        out.append("<table><thead><tr>" + "".join(f"<th>{html.escape(c)}</th>" for c in table_rows[0]) + "</tr></thead><tbody>")
-        for row in table_rows[1:]:
-            out.append("<tr>" + "".join(f"<td>{html.escape(c)}</td>" for c in row) + "</tr>")
-        out.append("</tbody></table>")
-    return "\n".join(out)
-
-
-def write_index_html(paper: dict, reading: dict, source_label: str) -> pathlib.Path:
-    """生成根目录 index.html 作为 Pages 首页，嵌入当天精读全文。"""
-    title = html.escape(reading["title_cn"])
-    html_body = _md_to_html(render_markdown(paper, reading, source_label))
-    page = f"""<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>每日生物医学综述精读 · {paper['date']}</title>
-<style>
-  body {{ font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; max-width: 900px; margin: 0 auto; padding: 24px; line-height: 1.8; color: #1a1a1a; background: #fafafa; }}
-  h1 {{ font-size: 1.6em; border-bottom: 2px solid #2c7be5; padding-bottom: 8px; }}
-  h2 {{ font-size: 1.3em; color: #2c7be5; margin-top: 32px; border-left: 4px solid #2c7be5; padding-left: 10px; }}
-  h3 {{ font-size: 1.1em; margin-top: 24px; }}
-  blockquote {{ border-left: 4px solid #d0d7de; margin: 8px 0; padding: 8px 16px; background: #f0f3f6; color: #333; }}
-  table {{ border-collapse: collapse; width: 100%; margin: 12px 0; }}
-  th, td {{ border: 1px solid #d0d7de; padding: 8px; text-align: left; vertical-align: top; font-size: 0.92em; }}
-  th {{ background: #f0f3f6; }}
-  a {{ color: #2c7be5; }}
-  .meta {{ color: #666; font-size: 0.9em; }}
-  .footer {{ margin-top: 48px; padding-top: 16px; border-top: 1px solid #e5e7eb; color: #999; font-size: 0.85em; }}
-</style>
-</head>
-<body>
-{html_body}
-<div class="footer">每日精读自动生成 · 每日 09:15 更新 · 仅供学习参考，请以原文为准</div>
-</body>
-</html>
-"""
-    path = REPO_ROOT / "index.html"
-    path.write_text(page, encoding="utf-8")
-    return path
 
 
 def update_index() -> None:
