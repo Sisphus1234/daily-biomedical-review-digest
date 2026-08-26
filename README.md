@@ -1,6 +1,8 @@
-# 每日生物医学综述精读
+# 每日生物医学综述精读 + 每日考研词汇
 
 每天自动从 **PubMed** 精选一篇最近发表的**前沿综述（Review）**，用 **DeepSeek** 生成中文精读材料，包括：中文概要、核心要点、**中英对照精读表**、**专业术语标注表**、前沿性点评。结果以 Markdown 存入 `notes/` 并自动提交到 git 仓库。
+
+同时每天按**考研真题词频**生成 **15 个考研词汇**学习卡片（IPA 音标 + 中英释义 + 例句 + DeepSeek 考点提示），存入 `vocab/` 并自动提交。
 
 > 架构灵感参考自 [research-radar](https://github.com/Prezblublu-Sun/research-radar)（arXiv+PubMed 拉取 + LLM 打分的自动化流水线）。
 
@@ -20,17 +22,24 @@
 
 ```
 .
-├── .github/workflows/daily.yml   # 每日定时任务
+├── .github/workflows/daily.yml   # 每日精读定时任务
+├── .github/workflows/vocab.yml   # 每日考研词汇定时任务
 ├── src/
 │   ├── config.py                 # 环境变量配置
 │   ├── pubmed.py                 # PubMed/Europe PMC 拉取
 │   ├── scoring.py                # 前沿性打分与生物医学筛选
 │   ├── llm.py                    # DeepSeek 精读
 │   ├── render.py                 # Markdown 渲染与索引
-│   └── main.py                   # 流水线入口
+│   ├── main.py                   # 精读流水线入口
+│   ├── vocab_main.py             # 词汇流水线入口
+│   └── vocab/                    # 词汇模块（选词/词典API/精读/渲染）
 ├── prompts/deep_reader.txt       # 精读提示词（可自行调整）
 ├── notes/                        # 每日精读输出 + 索引
+├── vocab/                        # 每日考研词汇输出 + 索引
 ├── data/seen.json                # 已读 PMID 记录
+├── data/netem_full_list.json     # 考研词频表（5530 词，来源见下）
+├── data/vocab_progress.json      # 词汇学习进度
+├── data/vocab_dict_cache.json    # 词典释义缓存
 ├── .env.example                  # 环境变量示例
 └── requirements.txt
 ```
@@ -108,6 +117,38 @@ python -m src.main [--date YYYY-MM-DD] [--dry-run] [--force] [--commit]
 ## 自定义精读提示词
 
 编辑 `prompts/deep_reader.txt` 即可调整精读风格、篇幅、对照粒度等，改完提交后次日生效。
+
+## 每日考研词汇
+
+每天 08:00（北京时间）自动按**真题词频**推送考研词汇，高频词优先。
+
+### 本地运行
+
+```powershell
+python -m src.vocab_main --dry-run    # 只看今天会选哪些词
+python -m src.vocab_main              # 正式生成（词典 API + DeepSeek）
+python -m src.vocab_main --commit     # 生成后自动 git 提交推送
+```
+
+### 输出示例
+
+`vocab/2026-08-26.md` 每个单词包含：词频排名、IPA 音标、中文释义（DeepSeek 精读）、英文释义与例句（Free Dictionary API）、考点提示（熟词僻义/固定搭配）、今日学习建议。
+
+### 数据与进度
+
+- 词表：`data/netem_full_list.json`，5530 个考研大纲词按词频降序（来源 [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary)，CC BY-NC-SA 4.0；前 2444 个为高频词）
+- 进度：`data/vocab_progress.json` 记录已学到第几个词，按天推进，到表尾自动回绕
+- 词典缓存：`data/vocab_dict_cache.json`，避免重复请求
+
+### 词汇参数
+
+| 环境变量 | 默认值 | 说明 |
+| --- | --- | --- |
+| `VOCAB_PER_DAY` | `15` | 每天单词数 |
+| `VOCAB_START` | `0` | 起始位置（0 = 从最高频开始） |
+| `VOCAB_SKIP_WORDS` | 内置基础词表 | 跳过的基础词（逗号分隔，如 `a,the`） |
+
+> 说明：牛津词典官方 API 需付费 key 无免费额度，故英文释义使用免费开源的 Free Dictionary API（Wiktionary 词源），中文释义由 DeepSeek 精读生成，二者结合。
 
 ## 许可
 
