@@ -26,20 +26,3 @@ def cleanup_old_days(today: datetime.date, vocab_dir: pathlib.Path | None = None
             p.unlink(missing_ok=True)
             removed += 1
     return removed
-
-
-def cleanup_old_html(today: datetime.date, repo_root: pathlib.Path | None = None) -> int:
-    """删除 repo_root 下非当天的残留 vocab.html，返回删除数量；文件不存在返回 0。
-
-    vocab.html 每天由新流程覆盖，此函数仅清理旧页面残留。
-    """
-    if repo_root is None:
-        repo_root = VOCAB_DIR.parent
-    page = repo_root / "vocab.html"
-    if not page.exists():
-        return 0
-    mtime = datetime.date.fromtimestamp(page.stat().st_mtime)
-    if mtime < today:
-        page.unlink(missing_ok=True)
-        return 1
-    return 0

@@ -149,7 +149,6 @@ def main() -> int:
     print(f"[4/4] 已写入: {path}")
 
     removed_days = vcleanup.cleanup_old_days(today)
-    vcleanup.cleanup_old_html(today)
     if removed_days:
         print(f"      已删除 {removed_days} 个前一天的单词文件（仅保留当天）")
 
