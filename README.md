@@ -120,7 +120,11 @@ python -m src.main [--date YYYY-MM-DD] [--dry-run] [--force] [--commit]
 
 ## 每日考研词汇
 
-每天 08:00（北京时间）自动按**真题词频**推送考研词汇，高频词优先。
+每天 08:00（北京时间）自动按**真题词频**推送考研词汇，高频优先，自动跳过已掌握的 CET-4 基础词。**手机网页版**（GitHub Pages，每天更新，只保留当天词汇）：
+
+> https://sisphus1234.github.io/daily-biomedical-review-digest/vocab.html
+
+每次运行只保留**当天**的单词文件（前一天自动删除），Markdown 存于 `vocab/YYYY-MM-DD.md`，网页存于根目录 `vocab.html`。
 
 ### 本地运行
 
@@ -146,9 +150,11 @@ python -m src.vocab_main --commit     # 生成后自动 git 提交推送
 | --- | --- | --- |
 | `VOCAB_PER_DAY` | `15` | 每天单词数 |
 | `VOCAB_START` | `0` | 起始位置（0 = 从最高频开始） |
-| `VOCAB_SKIP_WORDS` | 内置基础词表 | 跳过的基础词（逗号分隔，如 `a,the`） |
+| `VOCAB_SKIP_WORDS` | 内置基础词表 | 追加跳过的基础词（逗号分隔，如 `a,the`） |
+| `VOCAB_SKIP_CET4` | `true` | 是否跳过 CET-4 已掌握词汇（`false` 则全部推送） |
 
 > 说明：牛津词典官方 API 需付费 key 无免费额度，故英文释义使用免费开源的 Free Dictionary API（Wiktionary 词源），中文释义由 DeepSeek 精读生成，二者结合。
+> CET-4 词表来源 [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists)（`data/cet4_words.txt`，4531 词）。
 
 ## 许可
 

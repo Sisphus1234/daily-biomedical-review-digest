@@ -18,25 +18,12 @@ import sys
 
 from dotenv import load_dotenv
 
+from .vocab import cleanup as vcleanup
 from .vocab import data as vdata
-from .vocab import dictapi, llm as vllm, render as vrender
+from .vocab import dictapi, llm as vllm, render as vrender, skip as vskip, web as vweb
 
 HIGH_FREQ_COUNT = 2444
 TOTAL_COUNT = 5530
-
-DEFAULT_SKIP = {
-    "the", "be", "a", "an", "of", "and", "or", "to", "in", "on", "at", "by",
-    "for", "with", "from", "is", "are", "was", "were", "been", "have", "has",
-    "had", "do", "does", "did", "not", "no", "yes", "you", "your", "he", "she",
-    "it", "its", "we", "they", "i", "my", "me", "him", "her", "them", "us",
-    "this", "that", "these", "those", "what", "which", "who", "whom", "when",
-    "where", "why", "how", "as", "if", "but", "so", "then", "there", "here",
-    "their", "will", "more", "can", "one", "than", "his", "our", "also",
-    "very", "only", "even", "some", "any", "all", "each", "every", "other",
-    "another", "such", "most", "many", "much", "few", "little", "own", "same",
-    "still", "just", "up", "down", "out", "off", "over", "under", "before",
-    "after", "between", "without", "through", "into", "around", "near", "far",
-}
 
 
 def _get_int(name: str, default: int) -> int:
@@ -50,9 +37,6 @@ def _get_int(name: str, default: int) -> int:
 def load_vocab_config() -> dict:
     """读取词汇任务配置（不强制要求 DeepSeek key，dry-run 可无 key）。"""
     load_dotenv()
-    skip_raw = os.environ.get("VOCAB_SKIP_WORDS", "").strip()
-    skip = {w.strip().lower() for w in skip_raw.split(",")} if skip_raw else set(DEFAULT_SKIP)
-    skip.discard("")
     return {
         "deepseek_api_key": os.environ.get("DEEPSEEK_API_KEY", "").strip(),
         "deepseek_model": os.environ.get("DEEPSEEK_MODEL", "deepseek-chat").strip() or "deepseek-chat",
@@ -60,7 +44,7 @@ def load_vocab_config() -> dict:
         "temperature": float(os.environ.get("LLM_TEMPERATURE", "0.2").strip() or "0.2"),
         "vocab_per_day": _get_int("VOCAB_PER_DAY", 15),
         "vocab_start": _get_int("VOCAB_START", 0),
-        "vocab_skip": skip,
+        "vocab_skip": vskip.load_skip_set({}),
         "git_commit": os.environ.get("GIT_COMMIT", "false").strip().lower() == "true",
     }
 
@@ -161,7 +145,13 @@ def main() -> int:
     }
 
     path = vrender.write_day(picked, date_str, meta)
+    html_path = vweb.write_day_html(picked, date_str, meta)
     print(f"[4/4] 已写入: {path}")
+
+    removed_days = vcleanup.cleanup_old_days(today)
+    vcleanup.cleanup_old_html(today)
+    if removed_days:
+        print(f"      已删除 {removed_days} 个前一天的单词文件（仅保留当天）")
 
     progress["cursor"] = new_cursor
     progress["last_date"] = date_str
@@ -171,6 +161,7 @@ def main() -> int:
     vdata.save_progress(progress)
     vdata.save_cache(cache)
     vrender.update_index()
+    print(f"      手机网页: {html_path}")
 
     if cfg["git_commit"]:
         _commit_and_push(f"docs: 每日考研词汇 {date_str}（第 {day_num} 天，{len(picked)} 词）")

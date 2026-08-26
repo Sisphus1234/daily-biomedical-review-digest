@@ -1478,5 +1478,370 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "global": {
+    "ipa": "/ˈɡləʊbəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A globally scoped identifier.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Concerning all parts of the world.",
+        "example": "Pollution is a global problem."
+      },
+      {
+        "pos": "adjective",
+        "def": "Pertaining to the whole of something; total, universal:",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Spherical, ball-shaped.",
+        "example": "In the center was a small, global mass."
+      },
+      {
+        "pos": "adjective",
+        "def": "Of or relating to a globe or sphere.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "decline": {
+    "ipa": "/dɪˈklaɪn/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Downward movement, fall.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sloping downward, e.g. of a hill or road.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A weakening.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A reduction or diminution of activity.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The act of declining or refusing something.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "labor": {
+    "ipa": "/ˈleɪ.bɚ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Effort expended on a particular task; toil, work.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "That which requires hard work for its accomplishment; that which demands effort.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Workers in general; the working class, the workforce; sometimes specifically the labour movement, organised labour.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A political party or force aiming or claiming to represent the interests of labour.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The act of a mother giving birth.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The time period during which a mother gives birth.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The pitching or tossing of a vessel which results in the straining of timbers and rigging.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An old measure of land area in Mexico and Texas, approximately 177 acres.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "peer": {
+    "ipa": "/pɪə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A look; a glance.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To look with difficulty, or as if searching for something.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To come in sight; to appear.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "patent": {
+    "ipa": "/ˈpeɪtənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A declaration issued by a government agency declaring someone the inventor of a new invention and having the privilege of stopping others from making, using or selling the claimed invention; a letter patent.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A specific grant of ownership of a piece of property; a land patent.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "License; formal permission.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Patent leather: a varnished, high-gloss leather typically used for shoes and accessories.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "unemployment": {
+    "ipa": "/ʌn.ɪmˈplɔɪ.mənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The state of having no job; joblessness.",
+        "example": "Unemployment made Jack depressed."
+      },
+      {
+        "pos": "noun",
+        "def": "The phenomenon of joblessness in an economy.",
+        "example": "Unemployment has been considered a cause of crime."
+      },
+      {
+        "pos": "noun",
+        "def": "The level of joblessness in an economy, often measured as a percentage of the workforce.",
+        "example": "Unemployment was reported at 5.2% in May, up from 4.9% in April."
+      },
+      {
+        "pos": "noun",
+        "def": "A type of joblessness due to a particular economic mechanism.",
+        "example": "All unemployments, seasonal, frictional, cyclical, classical, whatever, mean that you're out of work."
+      },
+      {
+        "pos": "noun",
+        "def": "An instance or period of joblessness.",
+        "example": "Until then his life had consisted of low-paying jobs, numberous unemployments, and drug use."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "participant": null,
+  "innovation": {
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of innovating; the introduction of something new, in customs, rites, etc.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A change effected by innovating; a change in customs",
+        "example": "The others, whose time had been more actively employed, began to shew symptoms of innovation,—\"the good wine did its good office.\" The frost of etiquette, and pride of birth, began to give way before the genial blessings of this benign constellation, and the formal appellatives with which the three dignitaries had hitherto addressed each other, were now familiarly abbreviated into Tully, Bally, and Killie."
+      },
+      {
+        "pos": "noun",
+        "def": "Something new, and contrary to established customs, manners, or rites.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A newly formed shoot, or the annually produced addition to the stems of many mosses.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "corporate": {
+    "ipa": "/ˈkɔːp(ə)ɹət/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A bond issued by a corporation.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A short film produced for internal use in a business, e.g. for training, rather than for a general audience.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A corporation that franchises, as opposed to than an individual franchise.",
+        "example": "McDonald's corporate issued a new policy today."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "gender": {
+    "ipa": "/ˈdʒɛndə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Class; kind.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(grammar) A division of nouns and pronouns (and sometimes of other parts of speech) into masculine or feminine, and sometimes other categories like neuter or common, and animate or inanimate.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(now sometimes proscribed) Sex (a category such as \"male\" or \"female\" into which sexually-reproducing organisms are divided on the basis of their reproductive roles in their species).",
+        "example": "The effect of the medication is dependent upon age, gender, and other factors."
+      },
+      {
+        "pos": "noun",
+        "def": "Identification as a man, a woman or something else, and association with a (social) role or set of behavioral and cultural traits, clothing, etc; a category to which a person belongs on this basis. (Compare gender role, gender identity.)",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(hardware) The quality which distinguishes connectors, which may be male (fitting into another connector) and female (having another connector fit into it), or genderless/androgynous (capable of fitting together with another connector of the same type).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "urban": {
+    "ipa": "/ˈɜːbən/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Related to the (or any) city.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Characteristic of city life.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Relating to contemporary African American culture.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "enhance": {
+    "ipa": "/ɪnˈhɑːns/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To lift, raise up.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To augment or make something greater.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To improve something by adding features.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To be raised up; to grow larger.",
+        "example": "A debt enhances rapidly by compound interest."
+      },
+      {
+        "pos": "verb",
+        "def": "(radiology) To take up contrast agent (for an organ, tissue, or lesion).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "diet": {
+    "ipa": "/ˈdaɪət/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The food and beverage a person or animal consumes.",
+        "example": "The diet of the Giant Panda consists mainly of bamboo."
+      },
+      {
+        "pos": "noun",
+        "def": "A controlled regimen of food and drink, as to gain or lose weight or otherwise influence health.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(by extension) Any habitual intake or consumption.",
+        "example": "He's been reading a steady diet of nonfiction for the last several years."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "personality": null,
+  "advocate": {
+    "ipa": "/ˈæd.və.keɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Anyone who argues the case of another; an intercessor.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person who speaks in support of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person who supports others to make their voices heard, or ideally for them to speak up for themselves.",
+        "example": "Since she started working with her advocate, she has become much more confident."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
