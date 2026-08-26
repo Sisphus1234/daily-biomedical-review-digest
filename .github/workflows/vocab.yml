@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: '0 0 * * *'   # 每日 08:00 北京时间（UTC+8）自动运行
   workflow_dispatch:
+    inputs:
+      date:
+        description: '指定日期 YYYY-MM-DD（留空 = 运行器当天日期）'
+        required: false
+        type: string
+      force:
+        description: '忽略"今日已生成"记录，强制重新生成'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -64,7 +74,11 @@ jobs:
           VOCAB_SKIP_WORDS: ${{ vars.VOCAB_SKIP_WORDS }}
           VOCAB_START: ${{ vars.VOCAB_START }}
           GIT_COMMIT: "true"
-        run: python -m src.vocab_main --commit
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python -m src.vocab_main $ARGS --commit
 
       - name: Notify on failure
         if: failure()
