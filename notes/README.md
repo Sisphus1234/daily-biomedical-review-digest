@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-25 | [2026-08-25-42636268-pragmatic-clinical-trials-in-internal-medicine.md](2026-08-25-42636268-pragmatic-clinical-trials-in-internal-medicine.md) | Pragmatic Clinical Trials in Internal Medicine: Design Principles and Context-Specific Implementation. |
+| 2026-08-26 | [2026-08-26-42640340-combined-antithrombotic-therapy-vs-oral.md](2026-08-26-42640340-combined-antithrombotic-therapy-vs-oral.md) | Combined antithrombotic therapy vs. oral anticoagulation alone for ischemic stroke with concomitant atrial fibrillation and large artery atherosclerosis: a systematic review and meta-analysis. |
