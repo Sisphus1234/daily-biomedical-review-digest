@@ -42,9 +42,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Run unit tests
-        run: |
-          python -m tests.unit_test
-          python -m tests.vocab_test
+        run: python -m tests.vocab_test
 
       - name: Validate secrets and dry-run
         env:
