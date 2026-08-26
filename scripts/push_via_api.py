@@ -40,6 +40,20 @@ def git_str(*args):
     return out.strip()
 
 
+def list_tree(commit):
+    """用 -z 字节级解析 ls-tree，避免带引号/非 ASCII 路径被二次转义损坏。"""
+    raw = git_bytes("ls-tree", "-r", "-z", commit)
+    entries = []
+    for item in raw.split(b"\0"):
+        if not item:
+            continue
+        meta, path = item.split(b"\t", 1)
+        mode, otype, sha = meta.split()
+        entries.append((mode.decode(), otype.decode(), sha.decode(),
+                        path.decode("utf-8", errors="replace")))
+    return entries
+
+
 def main():
     global TOKEN
     TOKEN = subprocess.run(["gh", "auth", "token"], capture_output=True, text=True).stdout.strip()
@@ -59,13 +73,11 @@ def main():
         msg = git_str("log", "-1", "--format=%B", c).strip()
         parents = [p for p in git_str("log", "-1", "--format=%P", c).split() if p != current]
         tree_sha = git_str("rev-parse", f"{c}^{{tree}}")
-        files = git_str("ls-tree", "-r", c).splitlines()
+        files = list_tree(c)
 
         # 创建所有 blob
         blob_map = {}
-        for line in files:
-            meta, path = line.split("\t", 1)
-            mode, otype, sha = meta.split()
+        for mode, otype, sha, path in files:
             if otype != "blob":
                 continue
             content = git_bytes("show", f"{c}:{path}")
@@ -77,18 +89,16 @@ def main():
         def make_tree(prefix=""):
             entries = []
             seen_dirs = set()
-            for line in files:
-                meta, path = line.split("\t", 1)
+            for mode, otype, sha, path in files:
                 if not path.startswith(prefix):
                     continue
                 rel = path[len(prefix):]
                 if "/" in rel:
-                    sub = rel.split("/")[0]
+                    sub = rel.split("/", 1)[0]
                     if sub not in seen_dirs:
                         seen_dirs.add(sub)
                         entries.append({"path": sub, "mode": "040000", "type": "tree", "sha": make_tree(prefix + sub + "/")})
                 else:
-                    mode, otype, sha = meta.split()
                     entries.append({"path": rel, "mode": mode, "type": "tree" if otype == "tree" else "blob", "sha": blob_map.get(sha, sha)})
             resp = gh_api("POST", "/repos/" + REPO + "/git/trees", {"tree": entries})
             return resp["sha"]
