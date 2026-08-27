@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-26 | [2026-08-26-42640340-combined-antithrombotic-therapy-vs-oral.md](2026-08-26-42640340-combined-antithrombotic-therapy-vs-oral.md) | Combined antithrombotic therapy vs. oral anticoagulation alone for ischemic stroke with concomitant atrial fibrillation and large artery atherosclerosis: a systematic review and meta-analysis. |
+| 2026-08-27 | [2026-08-27-42655876-mechanistic-insights-into-the-association.md](2026-08-27-42655876-mechanistic-insights-into-the-association.md) | Mechanistic Insights Into the Association Between Gut Microbiota Diversity and Atherosclerosis, Acute Coronary Syndrome, and Peripheral Arterial Disease Progression. |
