@@ -2363,5 +2363,470 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "contribution": {
+    "ipa": "/ˌkɒntɹɪˈbjuːʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Something given or offered that adds to a larger whole.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An amount of money given toward something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The act of contributing.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The taking part, often with the idea that it has led to (scientific etc.) progress.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "context": {
+    "ipa": "/ˈkɒntɛkst/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence.",
+        "example": "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped."
+      },
+      {
+        "pos": "noun",
+        "def": "The text in which a word or passage appears and which helps ascertain its meaning.",
+        "example": "Without any context, I can't tell you if the \"dish\" refers to the food, or the thing you eat it on."
+      },
+      {
+        "pos": "noun",
+        "def": "The surroundings and environment in which an artifact is found and which may provide important clues about the artifact's function and/or cultural meaning.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The trama or flesh of a mushroom.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "For a formula: a finite set of variables, which set contains all the free variables in the given formula.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "priority": {
+    "ipa": "/pɹaɪˈɒɹɨti/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An item's relative importance.",
+        "example": "He set his e-mail message's priority to high."
+      },
+      {
+        "pos": "noun",
+        "def": "A goal of a person or an organisation.",
+        "example": "She needs to get her priorities straight and stop playing games."
+      },
+      {
+        "pos": "noun",
+        "def": "The quality of being earlier or coming first compared to another thing; the state of being prior.",
+        "example": "In bankruptcy law, a business' debt to its employees has priority over its debt to a landlord, so the employees must be paid first."
+      },
+      {
+        "pos": "noun",
+        "def": "(of a name) A superior claim to use by virtue of being validly published at an earlier date.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Precedence; superior rank.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "psychology": {
+    "ipa": "/saɪˈkɒlədʒɪ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The study of the human mind.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The study of human behavior.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The study of animal behavior.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The mental, emotional, and behavioral characteristics pertaining to a specified person, group, or activity.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "humanity": {
+    "ipa": "/hjuˈmænɪti/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Mankind; human beings as a group.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The human condition or nature.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The quality of being benevolent; humane traits of character; humane qualities or aspects.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any academic subject belonging to the humanities.",
+        "example": "Philosophy is a humanity while psychology is a science."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "survival": {
+    "ipa": "/sɚˈvaɪvəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The fact or act of surviving; continued existence or life.",
+        "example": "His survival in the open ocean was a miracle; he had fully expected to die."
+      },
+      {
+        "pos": "noun",
+        "def": "(as a modifier) Of, relating to or aiding survival.",
+        "example": "His survival kit had all the things he needed in the wilderness."
+      },
+      {
+        "pos": "noun",
+        "def": "The avoidance of relegation or demotion to a lower league or division.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A custom or belief that persists in folklore from earlier times, when the rationale behind it is forgotten.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "dominate": {
+    "ipa": "/ˈdɒməˌneɪt/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Ruling; governing; prevailing",
+        "example": "The dominant party controlled the government."
+      },
+      {
+        "pos": "adjective",
+        "def": "Predominant, common, prevalent, of greatest importance.",
+        "example": "The dominant plants of the Carboniferous were lycopods and early conifers."
+      },
+      {
+        "pos": "adjective",
+        "def": "Designating the follicle which will survive atresia and permit ovulation.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "gene": {
+    "ipa": "/dʒiːn/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A theoretical unit of heredity of living organisms; a gene may take several values and in principle predetermines a precise trait of an organism's form (phenotype), such as hair color.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A segment of DNA or RNA from a cell's or an organism's genome, that may take several forms and thus parameterizes a phenomenon, in general the structure of a protein; locus.",
+        "example": "A change in a gene is reflected in the protein or RNA molecule that it codes for."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "software": {
+    "ipa": "/ˈsɑftˌwɛɹ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The human beings involved in warfare, as opposed to hardware such as weapons and vehicles.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "homework": {
+    "ipa": "/ˈhəʊmˌwɜːk/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Work that is done at home, especially school exercises assigned by a teacher.",
+        "example": "You must do your homework before you can watch television."
+      },
+      {
+        "pos": "noun",
+        "def": "Preliminary or preparatory work, such as research.",
+        "example": "The speaker had certainly done his homework before delivering the lecture."
+      },
+      {
+        "pos": "noun",
+        "def": "Housework.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "privacy": {
+    "ipa": "/ˈpɹaɪv.ə.sɪ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The state of being secluded from the presence, sight, or knowledge of others.",
+        "example": "I need my privacy, so please stay out of my room."
+      },
+      {
+        "pos": "noun",
+        "def": "Freedom from unwanted or undue disturbance of one private life.",
+        "example": "It takes a village to rob one of a sense of privacy."
+      },
+      {
+        "pos": "noun",
+        "def": "Freedom from damaging publicity, public scrutiny, surveillance, and disclosure of personal information, usually by a government or a private organization.",
+        "example": "Privacy is assumed by many to be among common-law rights."
+      },
+      {
+        "pos": "noun",
+        "def": "A place of seclusion.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A relationship between parties seen as being a result of their mutual interest or participation in a given transaction, contract etc.; Privity.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Secrecy.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A private matter; a secret.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "email": {
+    "ipa": "/ˈiːmeɪl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A system for transferring messages from one computer to another, usually through a network.",
+        "example": "He sent me his details via email."
+      },
+      {
+        "pos": "noun",
+        "def": "A quantity of messages sent through an email system.",
+        "example": "I am searching through my old email."
+      },
+      {
+        "pos": "noun",
+        "def": "A message sent through an email system.",
+        "example": "He sent me an email last week to remind me about the meeting."
+      },
+      {
+        "pos": "noun",
+        "def": "An email address.",
+        "example": "Don’t send personal messages to my work email."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "favor": {
+    "ipa": "/ˈfeɪvə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+        "example": "He did me a favor when he took the time to drive me home."
+      },
+      {
+        "pos": "noun",
+        "def": "Goodwill; benevolent regard.",
+        "example": "She enjoyed the queen's favor."
+      },
+      {
+        "pos": "noun",
+        "def": "A small gift; a party favor.",
+        "example": "A marriage favour is a bunch or knot of white ribbons or white flowers worn at a wedding."
+      },
+      {
+        "pos": "noun",
+        "def": "Mildness or mitigation of punishment; lenity.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The object of regard; person or thing favoured.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Appearance; look; countenance; face.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Partiality; bias.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A letter, a written communication.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Anything worn publicly as a pledge of a woman's favor.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) Lovelocks.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "notion": {
+    "ipa": "/ˈnəʊʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Mental apprehension of whatever may be known, thought, or imagined; idea, concept.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sentiment; an opinion.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Sense; mind.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An invention; an ingenious device; a knickknack.",
+        "example": "Yankee notions"
+      },
+      {
+        "pos": "noun",
+        "def": "Any small article used in sewing and haberdashery, either for attachment to garments or as a tool, such as a button, zipper, or thimble.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Inclination; intention; disposition.",
+        "example": "I have a notion to do it."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "bracket": {
+    "ipa": "/ˈbɹækɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A fixture attached to a wall to hold up a shelf.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any intermediate object that connects a smaller part to a larger part, the smaller part typically projecting sideways from the larger part.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A short crooked timber, resembling a knee, used as a support.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The cheek or side of an ordnance carriage, supporting the trunnions.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any of the characters \"(\", \")\", \"[\", \"]\", \"{\", \"}\", \"<\" and \">\", used in pairs to enclose parenthetic remarks, sections of mathematical expressions, etc.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A printed diagram of games in a tournament.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A prediction of the outcome of games in a tournament, used for betting purposes.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "One of several ranges of numbers.",
+        "example": "tax bracket, age bracket"
+      },
+      {
+        "pos": "noun",
+        "def": "A pair of values that represent the smallest and largest elements of a range.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "In artillery, the endangered region between two shell impacts (one long and one short). The next shell fired is likely to hit accurately.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The small curved or angular corner formed by a serif and a stroke in a letter.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(land surveying, 19th century) a mark cut into a stone by land surveyors to secure a bench.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
