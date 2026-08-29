@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-27 | [2026-08-27-42655876-mechanistic-insights-into-the-association.md](2026-08-27-42655876-mechanistic-insights-into-the-association.md) | Mechanistic Insights Into the Association Between Gut Microbiota Diversity and Atherosclerosis, Acute Coronary Syndrome, and Peripheral Arterial Disease Progression. |
+| 2026-08-29 | [2026-08-29-42665310-schizophrenia-advances-in-pathophysiology.md](2026-08-29-42665310-schizophrenia-advances-in-pathophysiology.md) | Schizophrenia: advances in pathophysiology, management, and precision medicine. |
