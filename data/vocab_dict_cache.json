@@ -2828,5 +2828,445 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "worldwide": {
+    "ipa": "/ˈwɜːldwaɪd/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Spanning the world; global.",
+        "example": "A large meteorite impact would cause worldwide extinction of life."
+      },
+      {
+        "pos": "adverb",
+        "def": "Throughout the world.",
+        "example": "English is spoken worldwide."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "clone": {
+    "ipa": "/kləʊn/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A living organism (originally a plant) produced asexually from a single ancestor, to which it is genetically identical.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A group of identical cells derived from a single cell.http//www.medterms.com/script/main/art.asp?articlekey=2754",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A copy or imitation of something already existing, especially when designed to simulate it.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Two people who are exactly alike, as far as looks or behavior.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "client": {
+    "ipa": "/ˈklʌɪənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A customer, a buyer or receiver of goods or services.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The role of a computer application or system that requests and/or consumes the services provided by another having the role of server.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "One who receives help or services from a professional such as a lawyer or accountant.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person who employs or retains an attorney to represent him or her in any legal matter, or one who merely divulges confidential matters to an attorney while pursuing professional assistance without subsequently retaining the attorney.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "cognitive": {
+    "ipa": "/ˈkɒɡnɪtɪv/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Cognate.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Relating to the part of mental functions that deals with logic, as opposed to affective which deals with emotions.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Intellectual.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Cognate; which is to be recognized as cognate.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "symptom": {
+    "ipa": "/ˈsɪm(p)təm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A perceived change in some function, sensation or appearance of a person that indicates a disease or disorder, such as fever, headache or rash.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A signal; anything that indicates, or is characteristic of, the presence of something else, especially of something undesirable.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "inflation": {
+    "ipa": "/ɪnˈfleɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An act, instance of, or state of expansion or increase in size, especially by injection of a gas.",
+        "example": "The inflation of the balloon took five hours."
+      },
+      {
+        "pos": "noun",
+        "def": "An increase in the general level of prices or in the cost of living.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A decline in the value of money.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An increase in the quantity of money, leading to a devaluation of existing money.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Undue expansion or increase, as of academic grades.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An extremely rapid expansion of the universe, theorised to have occurred very shortly after the big bang.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "pose": {
+    "ipa": "/pəʊz/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Common cold, head cold; catarrh.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "volunteer": {
+    "ipa": "/vɒl.ənˈtɪə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "One who enters into, or offers for, any service of his/her own free will, especially when done without pay.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "One who enters into military service voluntarily, but who, when in service, is subject to discipline and regulations like other soldiers; -- opposed to conscript; specifically, a voluntary member of the organized militia of a country as distinguished from the standing army.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person who acts out of his own will without a legal obligation, such as a donor.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A plant that grows spontaneously, without being cultivated on purpose; see volunteer plant in Wikipedia.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A native or resident of the American state of Tennessee.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "acknowledge": {
+    "ipa": "/əkˈnɒ.lɪdʒ/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in",
+        "example": "to acknowledge the being of a god"
+      },
+      {
+        "pos": "verb",
+        "def": "To own or recognize in a particular quality, character or relationship; to admit the claims or authority of; to give recognition to.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To be grateful of (e.g. a benefit or a favour)",
+        "example": "to acknowledge a favor"
+      },
+      {
+        "pos": "verb",
+        "def": "To report (the receipt of a message to its sender).",
+        "example": "This is to acknowledge your kind invitation to participate in the upcoming debate."
+      },
+      {
+        "pos": "verb",
+        "def": "To own as genuine or valid; to assent to (a legal instrument) to give it validity; to avow or admit in legal form.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "incentive": {
+    "ipa": "/ɪnˈsɛntɪv/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Something that motivates, rouses, or encourages.",
+        "example": "I have no incentive to do housework right now."
+      },
+      {
+        "pos": "noun",
+        "def": "A bonus or reward, often monetary, to work harder.",
+        "example": "Management offered the sales team a $500 incentive for each car sold."
+      },
+      {
+        "pos": "adjective",
+        "def": "Inciting; encouraging or moving; rousing to action; stimulating.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Serving to kindle or set on fire.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "asset": {
+    "ipa": "/ˈæsɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Something or someone of any value; any portion of one's property or effects so considered.",
+        "example": "These shares are a valuable asset."
+      },
+      {
+        "pos": "noun",
+        "def": "Any component, model, process or framework of value that can be leveraged or reused.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An intelligence asset.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(usually in the plural) The private parts; a woman's breasts or buttocks, or a man's genitalia.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "massive": {
+    "ipa": "/ˈmæs.ɪv/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A homogeneous mass of rock, not layered and without an obvious crystal structure.",
+        "example": "karst massives in western Georgia"
+      },
+      {
+        "pos": "noun",
+        "def": "A group of people from a locality, or sharing a collective aim, interest, etc.",
+        "example": "Big up to the Croydon massive!"
+      },
+      {
+        "pos": "adjective",
+        "def": "Very large in size or extent",
+        "example": "Compared to its counterparts from World War II, the Abrams main battle tank is truly massive."
+      },
+      {
+        "pos": "adjective",
+        "def": "Very large or bulky and heavy and solid",
+        "example": "A massive comet or asteroid appears to have ended the era of the dinosaurs."
+      },
+      {
+        "pos": "adjective",
+        "def": "To a very great extent; total, utter.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of particularly exceptional quality or value; awesome.",
+        "example": "Did you see Colbert last night? He was massive!"
+      },
+      {
+        "pos": "adjective",
+        "def": "Outstanding, beautiful",
+        "example": "Your dress is massive, love. Where did you get it?"
+      },
+      {
+        "pos": "adjective",
+        "def": "Affecting a large portion of the body, or severe.",
+        "example": "a massive heart attack"
+      },
+      {
+        "pos": "adjective",
+        "def": "Having a large mass",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "(of a particle) Possessing mass.",
+        "example": "Some bosons are massive while others are massless."
+      },
+      {
+        "pos": "adjective",
+        "def": "Homogenous, unstructured",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "entertainment": {
+    "ipa": "/ˈɛn.tɚˈteɪn.mənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An activity designed to give pleasure, enjoyment, diversion, amusement, or relaxation to an audience, no matter whether the audience participates passively as in watching opera or a movie, or actively as in games.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A show put on for the enjoyment or amusement of others.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Maintenance or support.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Admission into service; service.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Payment of soldiers or servants; wages.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Reception; (provision of) food to guests or travellers.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "virtual": {
+    "ipa": "/ˈvɵːtʃuəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A virtual member function of a class.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "In effect or essence, if not in fact or reality; imitated, simulated.",
+        "example": "In fact a defeat on the battlefield, Tet was a virtual victory for the North, owing to its effect on public opinion."
+      },
+      {
+        "pos": "adjective",
+        "def": "Having the power of acting or of invisible efficacy without the agency of the material or measurable part; potential.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Nearly, almost. (A relatively recent development in meaning)",
+        "example": "The angry peasants were a virtual army as they attacked the castle."
+      },
+      {
+        "pos": "adjective",
+        "def": "Simulated in a computer or online.",
+        "example": "The virtual world of his computer game allowed character interaction."
+      },
+      {
+        "pos": "adjective",
+        "def": "Operating by computer or in cyberspace; not physically present.",
+        "example": "a virtual assistant; a virtual personal trainer"
+      },
+      {
+        "pos": "adjective",
+        "def": "(of a class member) Capable of being overridden with a different implementation in a subclass.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Pertaining to particles in temporary existence due to the Heisenberg uncertainty principle.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "recruit": {
+    "ipa": "/ɹɪˈkɹuːt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A supply of anything wasted or exhausted; a reinforcement.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person enlisted for service in the army; a newly enlisted soldier.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A hired worker",
+        "example": "These new recruits were hired after passing the interviews"
+      },
+      {
+        "pos": "noun",
+        "def": "A new member of a certain population, usually a juvenile.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
