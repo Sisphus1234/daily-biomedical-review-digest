@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-29 | [2026-08-29-42665310-schizophrenia-advances-in-pathophysiology.md](2026-08-29-42665310-schizophrenia-advances-in-pathophysiology.md) | Schizophrenia: advances in pathophysiology, management, and precision medicine. |
+| 2026-08-30 | [2026-08-30-42667521-traumatic-brain-injury-in-austere-environments.md](2026-08-30-42667521-traumatic-brain-injury-in-austere-environments.md) | Traumatic Brain Injury in Austere Environments: a Review of Recent Advances. |
