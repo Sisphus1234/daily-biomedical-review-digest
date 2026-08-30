@@ -3268,5 +3268,400 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "retail": {
+    "ipa": "/ˈɹiˌteɪl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+        "example": "She works in retail."
+      },
+      {
+        "pos": "noun",
+        "def": "Retail price; full price; an abbreviated expression, meaning the full suggested price of a particular good or service, before any sale, discount, or other deal.",
+        "example": "I never pay retail for clothes."
+      },
+      {
+        "pos": "verb",
+        "def": "To sell at retail, or in small quantities directly to customers.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To sell secondhand, or in broken parts.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To repeat or circulate (news or rumours) to others.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "excerpt": null,
+  "recycle": null,
+  "confront": {
+    "ipa": "/kɒnˈfɹɒnt/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To stand or meet facing, especially in competition, hostility or defiance; to come face to face with",
+        "example": "We should confront him about the missing money."
+      },
+      {
+        "pos": "verb",
+        "def": "To deal with.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To something bring face to face with.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To come up against; to encounter.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To engage in confrontation.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To set a thing side by side with; to compare.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To put a thing facing to; to set in contrast to.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "assumption": {
+    "ipa": "/əˈsʌmp.ʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of assuming, or taking to or upon oneself; the act of taking up or adopting.",
+        "example": "His assumption of secretarial duties was timely."
+      },
+      {
+        "pos": "noun",
+        "def": "The act of taking for granted, or supposing a thing without proof; a supposition; an unwarrantable claim.",
+        "example": "Their assumption of his guilt disqualified them from jury duty."
+      },
+      {
+        "pos": "noun",
+        "def": "The thing supposed; a postulate, or proposition assumed; a supposition.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The minor or second proposition in a categorical syllogism.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The taking of a person up into heaven.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A festival in honor of the ascent of the Virgin Mary into heaven, celebrated on 15 August.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Assumptio.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "transition": {
+    "ipa": "/tɹænˈzɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The process of change from one form, state, style or place to another.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A word or phrase connecting one part of a discourse to another.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A brief modulation; a passage connecting two themes.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A change of key.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A point mutation in which one base is replaced by another of the same class (purine or pyrimidine); compare transversion.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A change from defense to attack, or attack to defense.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The onset of the final stage of childbirth.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Professional special education assistance for children or adults in the process of leaving one educational environment or support program for another to relatively more independent living.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A change between forward and backward motion without stopping.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The process or act of changing from one gender role to another, or of bringing one's outward appearance in line with one's internal gender identity.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "adolescent": {
+    "ipa": "/ˌædəˈlɛsənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A person who is in adolescence; someone who has reached puberty but is not yet an adult.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of, relating to, or at the age of adolescence; at the stage between being a child and an adult",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "category": {
+    "ipa": "/ˈkætəˌɡɔɹi/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+        "example": "I wouldn't put this book in the same category as the author's first novel."
+      },
+      {
+        "pos": "noun",
+        "def": "A collection of objects, together with a transitively closed collection of composable arrows between them, such that every object has an identity arrow, and such that arrow composition is associative.",
+        "example": "Just as a monoid consists of an underlying set with a binary operation \"on top of it\" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation \"on top of it\" which is transitively closed, associative, and with an identity at each object. In fact, a category's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "vulnerable": {
+    "ipa": "/ˈvʌln(ə)ɹəbl̩/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.",
+        "example": "It's okay to get vulnerable every now and again."
+      },
+      {
+        "pos": "adjective",
+        "def": "More likely to be exposed to malicious programs or viruses.",
+        "example": "a vulnerable PC with no antivirus software"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "estate": {
+    "ipa": "/ɪsˈteɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The collective property and liabilities of someone, especially a deceased person.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "State; condition.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Status, rank.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The condition of one's fortunes; prosperity, possessions.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A \"person of estate\"; a nobleman or noblewoman.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A major social class or order of persons regarded collectively as part of the body politic of the country and formerly possessing distinct political rights (Estates of the realm).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The nature and extent of a person's interest in, or ownership of, land.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An (especially extensive) area of land, under a single ownership.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The landed property owned or controlled by a government or a department of government.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(sometimes derogatory) A housing estate.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A station wagon; a car with a tailgate (or liftgate) and storage space to the rear of the seating which is coterminous with the passenger compartment (and often extensible into that compartment via folding or removable seating).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The state; the general body politic; the common-wealth; the general interest; state affairs.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "initiative": {
+    "ipa": "/ɪˈnɪʃətɪv/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A beginning; a first move.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A new development; a fresh approach to something; a new way of dealing with a problem.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The ability to act first or on one's own.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An issue to be voted on, brought to the ballot by a sufficient number of signatures from among the voting public.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "elite": {
+    "ipa": "/eɪˈliːt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A special group or social class of people which have a superior intellectual, social or economic status as, the elite of society.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Someone who is among the best at a certain task.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of high birth or social position; aristocratic or patrician.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Representing the choicest or most select of a group.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "curriculum": {
+    "ipa": "/kəˈɹɪk.jə.ləm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The set of courses, coursework, and their content, offered at a school or university.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A racecourse; a place for running.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "highlight": {
+    "ipa": "/ˈhaɪ.ˌlaɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An area or a spot in a drawing, painting, or photograph that is strongly illuminated.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An especially significant or interesting detail or event or period of time.",
+        "example": "Meeting my future wife was the highlight of my trip to Spain."
+      },
+      {
+        "pos": "noun",
+        "def": "A strand or spot of hair dyed a different color than the rest.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "interact": {
+    "ipa": "/ɪntəɹˈækt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A short act or piece between others, as in a play; a break between acts.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Intermediate employment or time.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A pair or series of acts involving more than one person.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
