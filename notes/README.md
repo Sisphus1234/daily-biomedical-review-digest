@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-08-30 | [2026-08-30-42667521-traumatic-brain-injury-in-austere-environments.md](2026-08-30-42667521-traumatic-brain-injury-in-austere-environments.md) | Traumatic Brain Injury in Austere Environments: a Review of Recent Advances. |
+| 2026-08-31 | [2026-08-31-42669137-modulating-the-gut-microbiota-brain-axis-in.md](2026-08-31-42669137-modulating-the-gut-microbiota-brain-axis-in.md) | Modulating the Gut-Microbiota-Brain Axis in Alzheimer's Disease: Therapeutic Potential of Nutritional and Metabolic Factors. |
