@@ -3663,5 +3663,225 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "exceptional": {
+    "ipa": "/ɪkˈsɛpʃənəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An exception, or something having an exceptional value",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Forming an exception; not ordinary; uncommon; rare.",
+        "example": "What an exceptional flower!"
+      },
+      {
+        "pos": "adjective",
+        "def": "Better than the average; superior due to exception or rarity.",
+        "example": "The quality of the beer was exceptional."
+      },
+      {
+        "pos": "adjective",
+        "def": "Corresponding to something of lower dimension under a birational correspondence.",
+        "example": "an exceptional curve; an exceptional divisor"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "whereas": {
+    "ipa": "/weəɹˈæz/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A clause, as in legal documents, stating whereas.",
+        "example": ""
+      },
+      {
+        "pos": "adverb",
+        "def": "Where (that).",
+        "example": ""
+      },
+      {
+        "pos": "conjunction",
+        "def": "In contrast; whilst on the contrary; although.",
+        "example": "He came first in the race, whereas his brother came last."
+      },
+      {
+        "pos": "conjunction",
+        "def": "It being the fact that; inasmuch as. (Often used in recitals)",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "deprive": null,
+  "guideline": null,
+  "judgment": null,
+  "boom": {
+    "ipa": "/buːm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A low-pitched, resonant sound, such as of an explosion.",
+        "example": "The boom of the surf."
+      },
+      {
+        "pos": "noun",
+        "def": "A rapid expansion or increase.",
+        "example": "You should prepare for the coming boom in the tech industry."
+      },
+      {
+        "pos": "noun",
+        "def": "One of the calls of certain monkeys or birds.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "literacy": {
+    "ipa": "/ˈlɪt.ɹə.si/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The ability to read and write.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Understanding of something (ex. computer literacy).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "counterpart": null,
+  "profitable": {
+    "ipa": "/ˈpɹɒfɪtəbl̩/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Producing a profit.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "segment": null,
+  "infrastructure": {
+    "ipa": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "(systems theory) An underlying base or foundation especially for an organization or system.",
+        "example": "The parasitic tyranny's infrastructure depends on secrecy in order to be effective."
+      },
+      {
+        "pos": "noun",
+        "def": "The basic facilities, services and installations needed for the functioning of a community or society.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "landscape": {
+    "ipa": "/ˈlandskeɪp/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A portion of land or territory which the eye can comprehend in a single view, including all the objects it contains.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sociological aspect of a physical area.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A picture representing a real or imaginary scene by land or sea, the main subject being the general aspect of nature, as fields, hills, forests, water, etc.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The pictorial aspect of a country.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A mode of printing where the horizontal sides are longer than the vertical sides",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A space, indoor or outdoor and natural or man-made (as in \"designed landscape\")",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A situation that is presented, a scenario",
+        "example": "The software patent landscape has changed considerably in the last years"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "crucial": {
+    "ipa": "/ˈkɹuː.ʃəl/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Essential or decisive for determining the outcome or future of something; extremely important.",
+        "example": "A secure supply of crude oil is crucial for any modern nation, let alone a superpower."
+      },
+      {
+        "pos": "adjective",
+        "def": "Cruciform or cruciate; cross-shaped.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "(Bermuda) Very good; excellent; particularly applied to reggae music.",
+        "example": "Delbert Wilkins is the most crucial pirate radio DJ in Brixton."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "snack": {
+    "ipa": "/snæk/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A light meal.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An item of food eaten between meals.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A very sexy and attractive person.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "trait": {
+    "ipa": "/tɹeɪ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An identifying characteristic, habit or trend.",
+        "example": "The number one personality trait I hate is hypocrisy. Why can't you be consistent!?"
+      },
+      {
+        "pos": "noun",
+        "def": "An uninstantiable collection of methods that provides functionality to a class by using the class’s own interface.",
+        "example": "Traits are somewhat between an interface and a mixin."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
