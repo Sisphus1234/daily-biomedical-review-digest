@@ -3883,5 +3883,525 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "tackle": {
+    "ipa": "/ˈtækəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A device for grasping an object and an attached means of moving it, as a rope and hook.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A block and tackle.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Equipment (rod, reel, line, lure, etc.) used when angling.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(by extension) equipment, gear, gadgetry.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A play where a player attempts to take control over the ball from an opponent, as in rugby or football.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A play where a defender brings the ball carrier to the ground.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any instance in which one person intercepts another and forces them to the ground.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An offensive line position between a guard and an end: offensive tackle; a person playing that position.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A defensive position between two defensive ends: defensive tackle; a person playing that position.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A man's genitalia.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "ingredient": {
+    "ipa": "/ɪnˈɡɹiːdi.ənt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "One of the substances present in a mixture, especially food.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "discount": {
+    "ipa": "/dɪsˈkaʊnt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A reduction in price.",
+        "example": "This store offers discounts on all its wares. That store specializes in discount wares, too."
+      },
+      {
+        "pos": "noun",
+        "def": "A deduction made for interest, in advancing money upon, or purchasing, a bill or note not due; payment in advance of interest upon money.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The rate of interest charged in discounting.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(transactional analysis) The act of one who believes, or act as though they believe, that their own feelings are more important than the reality of a situation.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "constitute": {
+    "ipa": "/ˈkɒnstɪtjuːt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An established law.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To set up; to establish; to enact.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To make up; to compose; to form.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To appoint, depute, or elect to an office; to make and empower.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "radical": {
+    "ipa": "/ˈɹædɪkəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(historical: early 20th-century France) A member of an influential, centrist political party favouring moderate social reform, a republican constitution, and secular politics.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person with radical opinions.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A root (of a number or quantity).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "In logographic writing systems such as the Chinese writing system, the portion of a character (if any) that provides an indication of its meaning, as opposed to phonetic.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "In Semitic languages, any one of the set of consonants (typically three) that make up a root.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A group of atoms, joined by covalent bonds, that take part in reactions as a single unit.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A free radical.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(commutative algebra, of an ideal) Given an ideal I in a commutative ring R, another ideal, denoted Rad(I) or \\sqrt{I}, such that an element x ∈ R is in Rad(I) if, for some positive integer n, xn ∈ I; equivalently, the intersection of all prime ideals containing I.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(of a ring) Given a ring R, an ideal containing elements of R that share a property considered, in some sense, \"not good\".",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(of a module) The intersection of maximal submodules of a given module.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The product of the distinct prime factors of a given positive integer.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "profound": {
+    "ipa": "/pɹəˈfaʊnd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The deep; the sea; the ocean.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An abyss.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To cause to sink deeply; to cause to dive or penetrate far down.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To dive deeply; to penetrate.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "dioxide": null,
+  "gamble": {
+    "ipa": "/ˈɡæm.bəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A bet or wager.",
+        "example": "I had a gamble on the horses last weekend."
+      },
+      {
+        "pos": "noun",
+        "def": "A significant risk, undertaken with a potential gain.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A risky venture.",
+        "example": "The sailors had taken many gambles with the sea and always won."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "honor": {
+    "ipa": "/ˈɒn.ə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Recognition of importance or value; respect; veneration (of someone, usually for being morally upright or successful)",
+        "example": "The crowds gave the returning general much honor and praise."
+      },
+      {
+        "pos": "noun",
+        "def": "The state of being morally upright, honest, noble, virtuous, and magnanimous; excellence of character; the perception of such a state; favourable reputation; dignity",
+        "example": "He was a most perfect knight, for he had great honor and chivalry."
+      },
+      {
+        "pos": "noun",
+        "def": "A token of praise or respect; something that represents praiseworthiness or respect, such as a prize or award given by the state to a citizen",
+        "example": "Audie Murphy received many honors, such as the Distinguished Service Cross."
+      },
+      {
+        "pos": "noun",
+        "def": "A privilege",
+        "example": "I had the honour of dining with the ambassador."
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) the privilege of going first",
+        "example": "I'll let you have the honours, Bob—go ahead."
+      },
+      {
+        "pos": "noun",
+        "def": "A cause of respect and fame; a glory; an excellency; an ornament.",
+        "example": "He is an honour to his nation."
+      },
+      {
+        "pos": "noun",
+        "def": "(feudal law) a seigniory or lordship held of the king, on which other lordships and manors depended",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The center point of the upper half of an armorial escutcheon (compare honour point)",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "In bridge, an ace, king, queen, jack, or ten especially of the trump suit. In some other games, an ace, king, queen or jack.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) (courses for) an honours degree: a university qualification of the highest rank",
+        "example": "At university I took honours in modern history."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "transaction": {
+    "ipa": "/tɹænˈzækʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of conducting or carrying out (business, negotiations, plans).",
+        "example": "The transaction was made on Friday with the supplier."
+      },
+      {
+        "pos": "noun",
+        "def": "A deal or business agreement.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An exchange or trade, as of ideas, money, goods, etc.",
+        "example": "I made the transaction with the vendor as soon as she showed me the pearls."
+      },
+      {
+        "pos": "noun",
+        "def": "The transfer of funds into, out of, or from an account.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An atomic operation; a message, data modification, or other procedure that is guaranteed to perform completely or not at all (e.g. a database transaction).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(especially in plural) A record of the proceedings of a learned society.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in transactional analysis) A social interaction.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "chip": {
+    "ipa": "/tʃɪp/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A small piece broken from a larger piece of solid material.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A damaged area of a surface where a small piece has been broken off.",
+        "example": "This cup has a chip in it."
+      },
+      {
+        "pos": "noun",
+        "def": "(games) A token used in place of cash.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A sovereign (the coin).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A circuit fabricated in one piece on a small, thin substrate.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A hybrid device mounted in a substrate, containing electronic circuitry and miniaturised mechanical, chemical and/or biochemical devices.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(especially in the plural) A fried strip of potato of square or rectangular cross-section; a french fry.",
+        "example": "Do you want sauce or mayonnaise on your chips?"
+      },
+      {
+        "pos": "noun",
+        "def": "(especially in the plural) A thin, crisp, fried slice of potato, or sometimes another vegetable; a crisp.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A shot during which the ball travels more predominantly upwards than in a regular shot, as to clear an obstacle.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A takeout that hits a rock at an angle.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A dried piece of dung, often used as fuel.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(northern) A receptacle, usually for strawberries or other fruit.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A small, near-conical piece of food added in baking.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A small rectangle of colour printed on coated paper for colour selection and matching. A virtual equivalent in software applications.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The triangular piece of wood attached to the log line.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Wood or Cuban palm leaf split into slips, or straw plaited in a special manner, for making hats or bonnets.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Anything dried up, withered, or without flavour.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A low shot that travels further along the ground than it does in the air.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "bias": {
+    "ipa": "/ˈbaɪəs/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Inclination towards something; predisposition, partiality, prejudice, preference, predilection.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The diagonal line between warp and weft in a woven fabric.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A wedge-shaped piece of cloth taken out of a garment (such as the waist of a dress) to diminish its circumference.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A voltage or current applied to an electronic device, such as a transistor electrode, to move its operating point to a desired part of its transfer function.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The difference between the expectation of the sample estimator and the true population value, which reduces the representativeness of the estimator by systematically distorting it.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "In the games of crown green bowls and lawn bowls: a weight added to one side of a bowl so that as it rolls, it will follow a curved rather than a straight path; the oblique line followed by such a bowl; the lopsided shape or structure of such a bowl. In lawn bowls, the curved course is caused only by the shape of the bowl. The use of weights is prohibited.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person's favourite member of a K-pop band.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "overwhelm": null,
+  "favorite": {
+    "ipa": "/ˈfeɪv.ɹɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A person or thing who enjoys special regard or favour.",
+        "example": "The teacher's favourite always went first."
+      },
+      {
+        "pos": "noun",
+        "def": "A person who is preferred or trusted above all others.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A contestant or competitor thought most likely to win.",
+        "example": "She's the favourite, she'll probably be elected."
+      },
+      {
+        "pos": "noun",
+        "def": "A bookmark in a web browser.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in the plural) A short curl dangling over the temples, fashionable in the reign of Charles II.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "neighbor": {
+    "ipa": "",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+        "example": "My neighbour has two noisy cats."
+      },
+      {
+        "pos": "noun",
+        "def": "One who is near in sympathy or confidence.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A fellow human being.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
