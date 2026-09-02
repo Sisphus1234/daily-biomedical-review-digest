@@ -4403,5 +4403,380 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "neighborhood": {
+    "ipa": "/ˈneɪbə.hʊd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The quality of being a neighbor, of living nearby, next to each-other; proximity.",
+        "example": "Our neighborhood was our only reason to exchange hollow greetings."
+      },
+      {
+        "pos": "noun",
+        "def": "Close proximity, nearby area; particularly, close proximity to one's home.",
+        "example": "He lives in my neighborhood."
+      },
+      {
+        "pos": "noun",
+        "def": "The inhabitants of a residential area.",
+        "example": "The fire alarmed the neighborhood."
+      },
+      {
+        "pos": "noun",
+        "def": "A formal or informal division of a municipality or region.",
+        "example": "We have just moved to a pleasant neighborhood."
+      },
+      {
+        "pos": "noun",
+        "def": "An approximate amount.",
+        "example": "He must be making in the neighborhood of $200,000 per year."
+      },
+      {
+        "pos": "noun",
+        "def": "The quality of physical proximity.",
+        "example": "The slums and the palace were in awful neighborhood."
+      },
+      {
+        "pos": "noun",
+        "def": "The disposition becoming a neighbor; neighborly kindness or good will.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Within a topological space:",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Within a metric space:",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The infinitesimal open set of all points that may be reached directly from a given point.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The set of all the vertices adjacent to a given vertex.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "amateur": {
+    "ipa": "/ˈæ.mə.tə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A lover of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person attached to a particular pursuit, study, or science as to music or painting; especially one who cultivates any study or art, from taste or attachment, without pursuing it professionally.",
+        "example": "The contest is only open to amateurs."
+      },
+      {
+        "pos": "noun",
+        "def": "Someone who is unqualified or insufficiently skillful.",
+        "example": "The entire thing was built by some amateurs with screwdrivers and plywood."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "barely": {
+    "ipa": "/ˈbɛə(ɹ).li/",
+    "defs": [
+      {
+        "pos": "adverb",
+        "def": "(degree) By a small margin.",
+        "example": ""
+      },
+      {
+        "pos": "adverb",
+        "def": "(degree) Almost not at all.",
+        "example": "The plane is so far away now I can barely see it."
+      },
+      {
+        "pos": "adverb",
+        "def": "Merely.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "alert": {
+    "ipa": "/əˈlɜːt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An alarm.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A notification of higher importance than an advisory.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A state of readiness for potential combat.",
+        "example": "an airborne alert; ground alert"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "theft": {
+    "ipa": "/θɛft/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of stealing property.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "ethnic": {
+    "ipa": "/ˈɛθ.nɪk/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An ethnic person, especially a foreigner or member of an immigrant community.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An ethnic minority.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A heathen, a pagan.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(in classical scholarship) the demonym of an Ancient Greek city",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "historian": null,
+  "compensate": {
+    "ipa": "/ˈkɒm.pən.seɪt/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To do (something good) after (something bad) happens",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To pay or reward someone in exchange for work done or some other consideration.",
+        "example": "It is hard work, but they will compensate you well for it."
+      },
+      {
+        "pos": "verb",
+        "def": "To make up for; to do something in place of something else; to correct, satisfy; to reach an agreement such that the scales are literally or (metaphorically) balanced; to equalize or make even.",
+        "example": "His loud voice cannot compensate for a lack of personality."
+      },
+      {
+        "pos": "verb",
+        "def": "To adjust or adapt to a change, often a harm or deprivation.",
+        "example": "I don't like driving that old car because it always steers a little to the left so I'm forever compensating for that when I drive it. Trust me, it gets annoying real fast."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "legislation": {
+    "ipa": "/ˌlɛd͡ʒɪsˈleɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of legislating; preparation and enactment of laws; the laws enacted.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Law which has been enacted by legislature or other governing body",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "controversy": {
+    "ipa": "/ˈkɑntɹəˌvɝsi/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A debate or discussion of opposing opinions; (generally) strife.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "assistance": {
+    "ipa": "/əˈsɪs.təns/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Aid; help; the act or result of assisting.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "insight": {
+    "ipa": "/ˈɪnsaɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A sight or view of the interior of anything; a deep inspection or view; introspection; frequently used with into.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Power of acute observation and deduction",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Knowledge (usually derived from consumer understanding) that a company applies in order to make a product or brand perform better and be more appealing to customers",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Intuitive apprehension of the inner nature of a thing or things; intuition.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An extended understanding of a subject resulting from identification of relationships and behaviors within a model, context, or scenario.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An individual's awareness of the nature and severity of one's mental illness.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "theme": {
+    "ipa": "/θiːm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A subject of a talk or an artistic piece; a topic.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A recurring idea; a motif.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An essay written for school.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The main melody of a piece of music, especially one that is the source of variations.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A song, or a snippet of a song, that identifies a film, a TV program, a character, etc. by playing at the appropriate time.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The collection of color schemes, sounds, artwork etc., that \"skin\" an environment towards a particular motif.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(grammar) The stem of a word.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Thematic relation of a noun phrase to a verb.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Theta role in generative grammar and government and binding theory.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Topic, what is generally being talked about, as opposed to rheme.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A regional unit of organisation in the Byzantine empire.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "defense": {
+    "ipa": "/dɪˈfɛns/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The action of defending or protecting from attack, danger, or injury.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Anything employed to oppose attack(s).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An argument in support or justification of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Government policy or (infra)structure related to the military.",
+        "example": "Department of Defense"
+      },
+      {
+        "pos": "noun",
+        "def": "A prohibition; a prohibitory ordinance.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "facilitate": {
+    "ipa": "/fəˈsɪləteɪt/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To make easy or easier.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To help bring about.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To preside over (a meeting, a seminar).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
   }
 }
