@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-02 | [2026-09-02-42680466-drug-induced-dysbiosis-as-a-forensic-biomarker.md](2026-09-02-42680466-drug-induced-dysbiosis-as-a-forensic-biomarker.md) | Drug-induced dysbiosis as a forensic biomarker: Implications for post-mortem interval estimation and forensic diagnostics. |
+| 2026-09-03 | [2026-09-03-42686330-precision-oncology-in-gastrointestinal-and.md](2026-09-03-42686330-precision-oncology-in-gastrointestinal-and.md) | Precision Oncology in Gastrointestinal and Colorectal Cancer Surgery. |
