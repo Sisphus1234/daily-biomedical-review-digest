@@ -4778,5 +4778,45 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
-  }
+  },
+  "database": null,
+  "enterprise": {
+    "ipa": "/ˈɛntɚˌpɹaɪz/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A company, business, organization, or other purposeful endeavor.",
+        "example": "A micro-enterprise is defined as a business having 5 or fewer employees and a low seed capital."
+      },
+      {
+        "pos": "noun",
+        "def": "An undertaking, venture, or project, especially a daring and courageous one.",
+        "example": "Biosphere 2 was a scientific enterprise aimed at the exploration of the complex web of interactions within life systems."
+      },
+      {
+        "pos": "noun",
+        "def": "A willingness to undertake new or risky projects; energy and initiative.",
+        "example": "He has shown great enterprise throughout his early career."
+      },
+      {
+        "pos": "noun",
+        "def": "Active participation in projects.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "lobby": null,
+  "cautious": null,
+  "induce": null,
+  "mechanism": null,
+  "originate": null,
+  "ethic": null,
+  "qualification": null,
+  "poll": null,
+  "myth": null,
+  "fossil": null,
+  "forum": null,
+  "dean": null,
+  "ambitious": null
 }
