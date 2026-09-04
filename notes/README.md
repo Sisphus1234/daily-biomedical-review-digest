@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-03 | [2026-09-03-42686330-precision-oncology-in-gastrointestinal-and.md](2026-09-03-42686330-precision-oncology-in-gastrointestinal-and.md) | Precision Oncology in Gastrointestinal and Colorectal Cancer Surgery. |
+| 2026-09-04 | [2026-09-04-42692799-growth-and-nutritional-outcomes-in-children.md](2026-09-04-42692799-growth-and-nutritional-outcomes-in-children.md) | Growth and nutritional outcomes in children during the first year of cancer treatment: a scoping review with implications for child health care in low- and middle-income countries (LMICs). |
