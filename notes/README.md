@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-04 | [2026-09-04-42692799-growth-and-nutritional-outcomes-in-children.md](2026-09-04-42692799-growth-and-nutritional-outcomes-in-children.md) | Growth and nutritional outcomes in children during the first year of cancer treatment: a scoping review with implications for child health care in low- and middle-income countries (LMICs). |
+| 2026-09-05 | [2026-09-05-42696555-one-mechanism-two-diseases-involvement-of.md](2026-09-05-42696555-one-mechanism-two-diseases-involvement-of.md) | One mechanism, two diseases: Involvement of enzyme-substrate complexes in the pathogenesis of celiac disease and rheumatoid arthritis. |
