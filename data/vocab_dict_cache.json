@@ -4833,5 +4833,195 @@
   "strive": null,
   "penalty": null,
   "distract": null,
-  "update": null
+  "update": null,
+  "random": {
+    "ipa": "/ˈɹændəm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A roving motion; course without definite direction; lack of rule or method; chance.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Speed, full speed; impetuosity, force.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The full range of a bullet or other projectile; hence, the angle at which a weapon is tilted to allow the greatest range.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An undefined, unknown or unimportant person; a person of no consequence.",
+        "example": "The party was boring. It was full of randoms."
+      },
+      {
+        "pos": "noun",
+        "def": "The direction of a rake-vein.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "prolong": null,
+  "silicon": null,
+  "dominant": null,
+  "epidemic": null,
+  "impulse": null,
+  "subtle": {
+    "ipa": "/ˈsʌt(ə)l/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Hard to grasp; not obvious or easily understood; barely noticeable.",
+        "example": "The difference is subtle, but you can hear it if you listen carefully."
+      },
+      {
+        "pos": "adjective",
+        "def": "(of a thing) Cleverly contrived.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "(of a person or animal) Cunning, skillful.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Insidious.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Tenuous; rarefied; of low density or thin consistency.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Refined; exquisite.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "spouse": null,
+  "tension": {
+    "ipa": "/ˈtɛnʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The condition of being held in a state between two or more forces, which are acting in opposition to each other.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Psychological state of being tense.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A feeling of nervousness, excitement, or fear that is created in a movie, book, etc.; suspense.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "State of an elastic object which is stretched in a way which increases its length.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Force transmitted through a rope, string, cable, or similar object (used with prepositions on, in, or of, e.g., \"The tension in the cable is 1000 N\", to convey that the same magnitude of force applies to objects attached to both ends).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Voltage. Usually only the terms low tension, high tension, and extra-high tension, and the abbreviations LT, HT, and EHT are used. They are not precisely defined; LT is normally a few volts, HT a few hundreds of volts, and EHT thousands of volts.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "foster": {
+    "ipa": "/ˈfɒstə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A foster parent.",
+        "example": "Some fosters end up adopting."
+      },
+      {
+        "pos": "noun",
+        "def": "The care given to another; guardianship.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To nurture or bring up offspring, or to provide similar parental care to an unrelated child.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To cultivate and grow something.",
+        "example": "Our company fosters an appreciation for the arts."
+      },
+      {
+        "pos": "verb",
+        "def": "To nurse or cherish something.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To be nurtured or trained up together.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "nutrition": null,
+  "conform": null,
+  "obligation": {
+    "ipa": "/ɑb.ləˈɡeɪ.ʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of binding oneself by a social, legal, or moral tie to someone.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A social, legal, or moral requirement, duty, contract, or promise that compels someone to follow or avoid a particular course of action.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A course of action imposed by society, law, or conscience by which someone is bound or restricted.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A legal agreement stipulating a specified action or forbearance by a party to the agreement; the document containing such agreement.",
+        "example": "X shall be entitled to subcontract its obligation to provide the Support Services. <>"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "deficit": {
+    "ipa": "/ˈdɛfɪsɪt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Deficiency in amount or quality; a falling short; lack.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A situation wherein, or amount whereby, spending exceeds government revenue.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "caution": null
 }
