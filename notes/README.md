@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-05 | [2026-09-05-42696555-one-mechanism-two-diseases-involvement-of.md](2026-09-05-42696555-one-mechanism-two-diseases-involvement-of.md) | One mechanism, two diseases: Involvement of enzyme-substrate complexes in the pathogenesis of celiac disease and rheumatoid arthritis. |
+| 2026-09-06 | [2026-09-06-42700304-antimicrobial-photodynamic-therapy-mediated-by.md](2026-09-06-42700304-antimicrobial-photodynamic-therapy-mediated-by.md) | Antimicrobial photodynamic therapy mediated by phenothiazine photosensitizers against Candida albicans and Candida auris: a systematic review. |
