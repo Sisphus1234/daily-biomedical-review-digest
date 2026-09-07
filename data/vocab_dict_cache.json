@@ -5038,5 +5038,75 @@
   "entrepreneur": null,
   "controversial": null,
   "subsidy": null,
-  "fake": null
+  "fake": null,
+  "realistic": null,
+  "therapy": null,
+  "biography": null,
+  "literally": null,
+  "panic": null,
+  "upgrade": null,
+  "advertise": null,
+  "alliance": {
+    "ipa": "/əˈlaɪ.əns/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The state of being allied.",
+        "example": "matrimonial alliances; an alliance between church and state, or between two countries"
+      },
+      {
+        "pos": "noun",
+        "def": "The act of allying or uniting.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A union or connection of interests between families, states, parties, etc., especially between families by marriage and states by compact, treaty, or league.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any union resembling that of families or states; union by relationship in qualities; affinity.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(with the definite article) The persons or parties allied.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "copyright": null,
+  "expertise": null,
+  "spite": null,
+  "suicide": null,
+  "acquisition": null,
+  "monetary": null,
+  "combat": {
+    "ipa": "/ˈkɒmˌbæt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A battle, a fight (often one in which weapons are used).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A struggle for victory",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To fight; to struggle against.",
+        "example": "It has proven very difficult to combat drug addiction."
+      },
+      {
+        "pos": "verb",
+        "def": "To fight (with); to struggle for victory (against).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  }
 }
