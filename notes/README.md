@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-07 | [2026-09-07-42701903-regulatory-roles-of-pyroptosis-associated.md](2026-09-07-42701903-regulatory-roles-of-pyroptosis-associated.md) | Regulatory roles of pyroptosis-associated lncRnas in breast cancer progression and immune microenvironment. |
+| 2026-09-09 | [2026-09-09-42710936-selective-advantages-selective-mismatches.md](2026-09-09-42710936-selective-advantages-selective-mismatches.md) | Selective advantages, selective mismatches, chronic inflammation, obesity, and type 2 diabetes: a new hypothesis to explain the effects of natural selection on genetic variation at the ectodysplasin A receptor locus. |
