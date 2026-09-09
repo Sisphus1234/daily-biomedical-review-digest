@@ -5123,5 +5123,250 @@
   "suppress": null,
   "currency": null,
   "guilt": null,
-  "premium": null
+  "premium": null,
+  "shuttle": null,
+  "straightforward": {
+    "ipa": "",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Proceeding in a straight course or manner; not deviating.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Easy, simple, without difficulty",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Direct; honest; frank",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "habitat": null,
+  "heritage": {
+    "ipa": "/ˈhɛɹɪtɪd͡ʒ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "An inheritance; property that may be inherited.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A tradition; a practice or set of values that is passed down from preceding generations through families or through institutional memory.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A birthright; the status acquired by birth, especially of but not exclusive to the firstborn.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Having a certain background, such as growing up with a second language.",
+        "example": "The university requires heritage Spanish students to enroll in a specially designed Spanish program not available to non-heritage students."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "format": {
+    "ipa": "/ˈfɔː(ɹ).mæt/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The layout of a publication or document.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(hence) The form of presentation of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The type of programming that a radio station broadcasts; such as a certain genre of music, news, sports, talk, etc.",
+        "example": "The radio station changed the format of its evening program."
+      },
+      {
+        "pos": "noun",
+        "def": "A file type.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "ambiguous": {
+    "ipa": "/æmˈbɪɡjuəs/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Open to multiple interpretations.",
+        "example": "The politician was criticized for his ambiguous statements and lack of precision."
+      },
+      {
+        "pos": "adjective",
+        "def": "Vague and unclear.",
+        "example": "He gave an ambiguous answer."
+      },
+      {
+        "pos": "adjective",
+        "def": "(of persons) Hesitant; uncertain; not taking sides.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "suspicious": {
+    "ipa": "/səˈspɪ.ʃəs/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Arousing suspicion.",
+        "example": "His suspicious behaviour brought him to the attention of the police."
+      },
+      {
+        "pos": "adjective",
+        "def": "Distrustful or tending to suspect.",
+        "example": "I have a suspicious attitude to get-rich-quick schemes."
+      },
+      {
+        "pos": "adjective",
+        "def": "Expressing suspicion",
+        "example": "She gave me a suspicious look."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "undermine": {
+    "ipa": "/ʌndəˈmaɪn/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To dig underneath (something), to make a passage for destructive or military purposes; to sap.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To weaken or work against; to hinder, sabotage.",
+        "example": "The war efforts were undermined by the constant bickering between the allies."
+      },
+      {
+        "pos": "verb",
+        "def": "To erode the base or foundation of something, e.g. by the action of water.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "deliberate": {
+    "ipa": "",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To consider carefully; to weigh well in the mind.",
+        "example": "It is now time for the jury to deliberate the guilt of the defendant."
+      },
+      {
+        "pos": "verb",
+        "def": "To consider the reasons for and against anything; to reflect.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Done on purpose; intentional.",
+        "example": "Tripping me was deliberate action."
+      },
+      {
+        "pos": "adjective",
+        "def": "Of a person, weighing facts and arguments with a view to a choice or decision; carefully considering the probable consequences of a step; slow in determining.",
+        "example": "The jury took eight hours to come to its deliberate verdict."
+      },
+      {
+        "pos": "adjective",
+        "def": "Formed with deliberation; carefully considered; not sudden or rash.",
+        "example": "a deliberate opinion; a deliberate measure or result"
+      },
+      {
+        "pos": "adjective",
+        "def": "Not hasty or sudden; slow.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "enrich": {
+    "ipa": "/ɪnˈɹɪt͡ʃ/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To enhance.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To make (someone or something) rich or richer.",
+        "example": "Hobbies enrich lives."
+      },
+      {
+        "pos": "verb",
+        "def": "To adorn, ornate more richly.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To add nutrients or fertilizer to the soil; to fertilize.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To increase the amount of one isotope in a mixture of isotopes, especially in a nuclear fuel.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To add nutrients to foodstuffs; to fortify",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To make to rise the proportion of a given constituent.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To add new elements, to complete.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "guy": null,
+  "verbal": {
+    "ipa": "/ˈvɜː.bəl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "(grammar) A verb form which does not function as a predicate, or a word derived from a verb. In English, infinitives, participles and gerunds are verbals.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A confession given to police.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To induce into fabricating a confession.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "hemisphere": null,
+  "comparable": null,
+  "organisation": null
 }
