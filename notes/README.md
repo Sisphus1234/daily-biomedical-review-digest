@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-09 | [2026-09-09-42710936-selective-advantages-selective-mismatches.md](2026-09-09-42710936-selective-advantages-selective-mismatches.md) | Selective advantages, selective mismatches, chronic inflammation, obesity, and type 2 diabetes: a new hypothesis to explain the effects of natural selection on genetic variation at the ectodysplasin A receptor locus. |
+| 2026-09-10 | [2026-09-10-42716047-clinical-pathways-for-cognitively-unimpaired.md](2026-09-10-42716047-clinical-pathways-for-cognitively-unimpaired.md) | Clinical pathways for cognitively unimpaired individuals with Alzheimer's disease neuropathological change. |
