@@ -5398,5 +5398,140 @@
   "lawsuit": null,
   "click": null,
   "manipulate": null,
-  "migrate": null
+  "migrate": null,
+  "clinic": null,
+  "destructive": {
+    "ipa": "/dɪˈstɹʊktɪv/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Causing destruction; damaging.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Causing breakdown or disassembly.",
+        "example": "Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy."
+      },
+      {
+        "pos": "adjective",
+        "def": "Lossy; causing irreversible change.",
+        "example": "Blurring an image is a destructive operation, but rotating an image is not."
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "recreation": null,
+  "monopoly": null,
+  "quest": null,
+  "conceive": null,
+  "underestimate": null,
+  "prescription": null,
+  "essence": {
+    "ipa": "/ˈɛsəns/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The inherent nature of a thing or idea.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The true nature of anything, not accidental or illusory.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Constituent substance.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A being; especially, a purely spiritual being.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A significant feature of something.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The concentrated form of a plant or drug obtained through a distillation process.",
+        "example": "essence of Jojoba"
+      },
+      {
+        "pos": "noun",
+        "def": "An extract or concentrate obtained from a plant or other matter used for flavouring.",
+        "example": "vanilla essence"
+      },
+      {
+        "pos": "noun",
+        "def": "Fragrance, a perfume.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "momentum": {
+    "ipa": "/ˌmoʊˈmɛntəm/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Of a body in motion: the tendency of a body to maintain its inertial motion; the product of its mass and velocity.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The impetus, either of a body in motion, or of an idea or course of events; a moment.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "misfortune": null,
+  "reservation": {
+    "ipa": "/ˌɹɛzəˈveɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of reserving, withholding or keeping back.",
+        "example": "The committee authorised the reservation of funds."
+      },
+      {
+        "pos": "noun",
+        "def": "Something that is withheld or kept back.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(often in the plural) A limiting qualification; a doubt.",
+        "example": "I have reservations about your intentions."
+      },
+      {
+        "pos": "noun",
+        "def": "A tract of land set apart by the US government for the use of a Native American people; Indian reservation (compare Canadian reserve).",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An arrangement by which accommodation or transport arrangements are secured in advance.",
+        "example": "I have a hotel reservation in the name of Mr Smith."
+      },
+      {
+        "pos": "noun",
+        "def": "The area which separates opposing lanes of traffic on a divided motorway or dual carriageway; see also central reservation.",
+        "example": "A vehicle crashed through the central reservation into the path of oncoming traffic."
+      },
+      {
+        "pos": "noun",
+        "def": "The setting aside of a certain percentage of vacancies in government institutions for members of backward and underrepresented communities (defined primarily by caste and tribe).",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "gadget": null,
+  "assert": null,
+  "inherent": null
 }
