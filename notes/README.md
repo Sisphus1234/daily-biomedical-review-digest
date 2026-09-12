@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-10 | [2026-09-10-42716047-clinical-pathways-for-cognitively-unimpaired.md](2026-09-10-42716047-clinical-pathways-for-cognitively-unimpaired.md) | Clinical pathways for cognitively unimpaired individuals with Alzheimer's disease neuropathological change. |
+| 2026-09-12 | [2026-09-12-42727947-advances-in-the-diagnosis-and-management-of.md](2026-09-12-42727947-advances-in-the-diagnosis-and-management-of.md) | Advances in the diagnosis and management of skin and soft tissue infections. |
