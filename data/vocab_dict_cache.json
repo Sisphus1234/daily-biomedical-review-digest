@@ -5548,5 +5548,180 @@
   "quota": null,
   "surplus": null,
   "drastic": null,
-  "supervise": null
+  "supervise": null,
+  "senator": null,
+  "abolish": null,
+  "foresee": null,
+  "hormone": null,
+  "recipient": null,
+  "hypothesis": {
+    "ipa": "/-əsəs/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Used loosely, a tentative conjecture explaining an observation, phenomenon or scientific problem that can be tested by further observation, investigation and/or experimentation. As a scientific term of art, see the attached quotation. Compare to theory, and quotation given there.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(general) An assumption taken to be true for the purpose of argument or investigation.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(grammar) The antecedent of a conditional statement.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "revive": {
+    "ipa": "/ɹɪˈvaɪv/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To return to life; to become reanimated or reinvigorated.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To return to life; to cause to recover life or strength; to cause to live anew.",
+        "example": "Her grandmother refused to be revived if she lost consciousness."
+      },
+      {
+        "pos": "verb",
+        "def": "To recover from a state of oblivion, obscurity, neglect, or depression.",
+        "example": "Classical learning revived in the fifteenth century."
+      },
+      {
+        "pos": "verb",
+        "def": "To restore, or bring again to life; to reanimate.",
+        "example": "This new paint job should revive the surgery waiting room."
+      },
+      {
+        "pos": "verb",
+        "def": "To raise from coma, languor, depression, or discouragement; to bring into action after a suspension.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To renew in the mind or memory; to bring to recollection; to recall attention to; to reawaken.",
+        "example": "The Harry Potter films revived the world's interest in wizardry"
+      },
+      {
+        "pos": "verb",
+        "def": "To recover its natural or metallic state, as a metal.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To restore or reduce to its natural or metallic state",
+        "example": "to revive a metal after calcination"
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "deficiency": null,
+  "enrol": null,
+  "realise": null,
+  "cater": {
+    "ipa": "/ˈkeɪtə/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Caterer",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To provide, particularly:",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person employed to obtain and maintain the storage of provisions, especially food.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person or company hired to provide and serve food, usually for a large group and at a location separate from where the food is prepared.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "donate": null,
+  "historic": null,
+  "incorporate": {
+    "ipa": "/ɪŋˈkɔɹpɚe(ɪ)t/",
+    "defs": [
+      {
+        "pos": "verb",
+        "def": "To include (something) as a part.",
+        "example": "The design of his house incorporates a spiral staircase."
+      },
+      {
+        "pos": "verb",
+        "def": "To mix (something in) as an ingredient; to blend",
+        "example": "Incorporate air into the mixture."
+      },
+      {
+        "pos": "verb",
+        "def": "To admit as a member of a company",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To form into a legal company.",
+        "example": "The company was incorporated in 1980."
+      },
+      {
+        "pos": "verb",
+        "def": "To include (another clause or guarantee of the US constitution) as a part (of the Fourteenth Amendment, such that the clause binds not only the federal government but also state governments).",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To form into a body; to combine, as different ingredients, into one consistent mass.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To unite with a material body; to give a material form to; to embody.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "prey": {
+    "ipa": "/pɹeɪ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Anything, as goods, etc., taken or got by violence; anything taken by force from an enemy in war",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "That which is or may be seized by animals or birds to be devoured; hence, a person given up as a victim.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A living thing that is eaten by another living thing.",
+        "example": "The rabbit was eaten by the coyote, so the rabbit is the coyote's prey."
+      },
+      {
+        "pos": "noun",
+        "def": "The act of devouring other creatures; ravage.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The victim of a disease.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  }
 }
