@@ -5723,5 +5723,60 @@
       }
     ],
     "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
-  }
+  },
+  "toxic": null,
+  "sheer": null,
+  "soar": {
+    "ipa": "/sɔː/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The act of soaring.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "An upward flight.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To fly high with little effort, like a bird.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To mount upward on wings, or as on wings.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To remain aloft by means of a glider or other unpowered aircraft.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To rise, especially rapidly or unusually high.",
+        "example": "The pump prices soared into new heights as the strike continued."
+      },
+      {
+        "pos": "verb",
+        "def": "To rise in thought, spirits, or imagination; to be exalted in mood.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "studio": null,
+  "expedition": null,
+  "deem": null,
+  "contend": null,
+  "allowance": null,
+  "skip": null,
+  "prestige": null,
+  "indoor": null,
+  "publicity": null,
+  "refrain": null,
+  "cherish": null,
+  "entity": null
 }
