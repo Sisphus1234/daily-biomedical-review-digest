@@ -5778,5 +5778,45 @@
   "publicity": null,
   "refrain": null,
   "cherish": null,
-  "entity": null
+  "entity": null,
+  "syndrome": null,
+  "whale": null,
+  "charter": null,
+  "correlate": null,
+  "array": null,
+  "engagement": null,
+  "alien": {
+    "ipa": "/ˈeɪ.li.ən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Any life form of extraterrestrial or extradimensional origin.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person, animal, plant, or other thing which is from outside the family, group, organization, or territory under consideration.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A foreigner residing in a country.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "One excluded from certain privileges; one alienated or estranged.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "opt": null,
+  "dilemma": null,
+  "blog": null,
+  "favorable": null,
+  "diagnose": null,
+  "sculpture": null,
+  "manifest": null,
+  "alongside": null
 }
