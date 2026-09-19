@@ -5848,5 +5848,135 @@
   "pledge": null,
   "snap": null,
   "visa": null,
-  "commute": null
+  "commute": null,
+  "energetic": null,
+  "illusion": null,
+  "episode": null,
+  "superiority": null,
+  "decisive": null,
+  "seemingly": null,
+  "spectator": null,
+  "trivial": {
+    "ipa": "/ˈtɹɪ.vi.əl/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "Any of the three liberal arts forming the trivium.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Ignorable; of little significance or value.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Commonplace, ordinary.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Concerned with or involving trivia.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Relating to or designating the name of a species; specific as opposed to generic.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Of, relating to, or being the simplest possible case.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Self-evident.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Pertaining to the trivium.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Indistinguishable in case of truth or falsity.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "intervene": null,
+  "dwell": null,
+  "inspiration": {
+    "ipa": "/ɪnspɨˈɹeɪʃən/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The drawing of air into the lungs, accomplished in mammals by elevation of the chest walls and flattening of the diaphragm, as part of the act of respiration.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A breath, a single inhalation.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A supernatural divine influence on the prophets, apostles, or sacred writers, by which they were qualified to communicate moral or religious truth with authority; a supernatural influence which qualifies people to receive and communicate divine truth; also, the truth communicated.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The act of an elevating or stimulating influence upon the intellect, emotions or creativity.",
+        "example": "She was waiting for inspiration to write a book."
+      },
+      {
+        "pos": "noun",
+        "def": "A person, object, or situation which quickens or stimulates an influence upon the intellect, emotions or creativity.",
+        "example": "The trip was an inspiration to her for writing a book."
+      },
+      {
+        "pos": "noun",
+        "def": "A new idea, especially one which arises suddenly and is clever or creative.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "merge": null,
+  "fraud": {
+    "ipa": "/fɹɔːd/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "The crime of stealing or otherwise illegally obtaining money by use of deception tactics.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "Any act of deception carried out for the purpose of unfair, undeserved and/or unlawful gain.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "The assumption of a false identity to such deceptive end.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A person who performs any such trick.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A trap or snare.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "hospitality": null,
+  "legitimate": null
 }
