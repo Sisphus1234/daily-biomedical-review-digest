@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-12 | [2026-09-12-42727947-advances-in-the-diagnosis-and-management-of.md](2026-09-12-42727947-advances-in-the-diagnosis-and-management-of.md) | Advances in the diagnosis and management of skin and soft tissue infections. |
+| 2026-09-20 | [2026-09-20-42762435-epidemiology-and-potential-mechanisms-of.md](2026-09-20-42762435-epidemiology-and-potential-mechanisms-of.md) | Epidemiology and potential mechanisms of structural progression in osteoarthritis. |
