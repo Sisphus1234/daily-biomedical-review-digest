@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-20 | [2026-09-20-42762435-epidemiology-and-potential-mechanisms-of.md](2026-09-20-42762435-epidemiology-and-potential-mechanisms-of.md) | Epidemiology and potential mechanisms of structural progression in osteoarthritis. |
+| 2026-09-21 | [2026-09-21-42763842-stroke-secondary-to-cancer-associated.md](2026-09-21-42763842-stroke-secondary-to-cancer-associated.md) | Stroke secondary to cancer-associated coagulopathy: a systematic review. |
