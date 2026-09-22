@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-21 | [2026-09-21-42763842-stroke-secondary-to-cancer-associated.md](2026-09-21-42763842-stroke-secondary-to-cancer-associated.md) | Stroke secondary to cancer-associated coagulopathy: a systematic review. |
+| 2026-09-22 | [2026-09-22-42767766-relevance-of-the-2025-esc-guidelines-for-the.md](2026-09-22-42767766-relevance-of-the-2025-esc-guidelines-for-the.md) | Relevance of the 2025 ESC guidelines for the diagnosis and management of myocarditis and pericarditis for systemic autoimmune rheumatic diseases. |

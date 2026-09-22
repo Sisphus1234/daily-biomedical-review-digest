@@ -1,0 +1,249 @@
+# Relevance of the 2025 ESC guidelines for the diagnosis and management of myocarditis and pericarditis for systemic autoimmune rheumatic diseases.
+
+> **每日精读 · 2026-09-22** ｜ **类型：摘要精读** ｜ 原文来源：PubMed 摘要 ｜ 阅读时长：约 10-15 分钟
+
+## 文章信息
+
+| 项目 | 内容 |
+| --- | --- |
+| 中文标题 | 2025年ESC心肌炎与心包炎诊疗指南对系统性自身免疫性风湿病的适用性探讨 |
+| 期刊 | The Lancet. Rheumatology |
+| 发表日期 | 2026/10/01 |
+| 作者 | Plein S, Youngstein T, Weber B, Buch MH |
+| DOI | [10.1016/S2665-9913(26)00248-1](https://doi.org/10.1016/S2665-9913%2826%2900248-1) |
+| PMID | [42767766](https://pubmed.ncbi.nlm.nih.gov/42767766/) |
+
+---
+
+## 一、文章概览
+
+本文是发表于《The Lancet Rheumatology》的一篇评论性文章，由Plein S、Youngstein T、Weber B和Buch MH共同撰写，旨在评估2025年欧洲心脏病学会（ESC）新发布的心肌炎与心包炎管理指南对系统性自身免疫性风湿病（systemic autoimmune rheumatic diseases, SARDs）患者的适用性。文章指出，ESC 2025指南已将SARDs列为心肌炎和心包炎的潜在病因之一，但该指南提出的通用诊断路径在SARDs人群中面临显著挑战。SARDs患者的心肌心包受累（myopericardial involvement）十分常见，且与不良预后相关，然而其独特的病理生理机制导致临床表现通常为亚临床型、非典型，且由于慢性炎症的持续存在，常规生物标志物（包括先进影像学技术）检测心肌心包疾病的准确性在该人群中较普通人群明显降低。在治疗方面，SARDs患者心肌心包受累的管理主要针对其潜在的风湿性疾病本身，但目前缺乏针对该人群的疾病特异性指导和多学科协作诊疗路径。作者强烈呼吁，应由风湿病学和心脏病学领域的专家共同制定针对SARDs患者心肌心包受累管理的专门指南和多学科诊疗路径。本文的核心价值在于揭示了通用心血管指南在特殊免疫介导疾病人群中的局限性，强调了跨学科协作的紧迫性，为未来SARDs心血管并发症的精准诊疗指明了方向。
+
+## 二、核心要点
+
+1. 2025年ESC心肌炎与心包炎指南已将系统性自身免疫性风湿病（SARDs）列为潜在病因之一，但指南的通用诊断路径在SARDs人群中适用性有限。
+2. SARDs患者的心肌心包受累非常常见，且与不良预后密切相关，是影响该类患者生存和生活质量的重要因素。
+3. SARDs相关心肌心包疾病的病理生理机制具有独特性，与普通人群的心肌炎/心包炎存在本质差异，这限制了通用诊断标准的准确性。
+4. SARDs患者的心肌心包疾病通常呈亚临床表现，症状不典型，容易被漏诊或延误诊断。
+5. 由于慢性炎症的持续存在，常规生物标志物（包括先进影像学技术）在SARDs人群中检测心肌心包疾病的准确性显著降低。
+6. SARDs患者心肌心包受累的治疗主要针对其潜在的风湿性疾病本身，而非心脏病变的独立管理。
+7. 目前缺乏针对SARDs患者心肌心包受累的疾病特异性诊疗指南和多学科协作路径。
+8. 作者呼吁风湿病学和心脏病学专家应共同制定针对SARDs人群心肌心包受累的专门管理指南。
+9. 多学科协作（MDT）模式是改善SARDs患者心血管并发症预后的关键路径。
+10. 该评论文章强调了通用心血管指南在特殊免疫介导疾病人群中需要个体化调整的必要性。
+
+## 三、分节深度解读（10-15 分钟精读）
+
+### 1. 背景与问题：ESC 2025指南与SARDs人群的碰撞
+
+**英文原文：**
+
+> The European Society of Cardiology (ESC) released new guidelines in 2025 for the management of myocarditis and pericarditis, which include systemic autoimmune rheumatic diseases as one of the potential aetiologies.
+
+
+**中文翻译：**
+
+> 欧洲心脏病学会（ESC）于2025年发布了心肌炎与心包炎管理的新指南，将系统性自身免疫性风湿病列为潜在病因之一。
+
+
+**英文原文：**
+
+> Myopericardial involvement in systemic autoimmune rheumatic diseases is common and associated with poor outcomes; however, the unique pathophysiology of myopericardial involvement in systemic autoimmune rheumatic diseases poses specific challenges and limits the applicability of the generic diagnostic pathways proposed in the 2025 ESC guidelines to the systemic autoimmune rheumatic disease population.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病中的心肌心包受累十分常见，且与不良预后相关；然而，系统性自身免疫性风湿病中心肌心包受累的独特病理生理机制带来了特定挑战，限制了2025年ESC指南所提出的通用诊断路径在该人群中的适用性。
+
+
+> **深度解读：** 本节揭示了本文的核心矛盾：通用指南与特殊人群之间的适配性问题。ESC 2025指南虽然认识到SARDs是心肌炎和心包炎的潜在病因，但其诊断路径主要基于普通人群的循证医学证据。SARDs患者的心肌心包受累具有独特的免疫病理机制，涉及自身抗体介导的损伤、免疫复合物沉积、慢性炎症微环境等多重因素，这与病毒性心肌炎或特发性心包炎的病理过程截然不同。通用诊断路径通常依赖于典型症状（如胸痛、呼吸困难）、心电图改变、心肌酶升高和心脏磁共振（CMR）特征性表现，但这些指标在SARDs患者中可能因慢性炎症背景而失去诊断准确性。例如，SARDs患者基线即可存在心肌酶轻度升高和非特异性心电图改变，使得鉴别诊断变得极为困难。这提示我们，在制定临床指南时，需要针对特殊人群进行分层推荐，而非简单套用通用标准。
+
+
+### 2. 机制与挑战：SARDs相关心肌心包疾病的独特性
+
+**英文原文：**
+
+> Myopericardial disease in patients with systemic autoimmune rheumatic disease is usually subclinical, often with atypical clinical presentation, and the accuracy of conventional biomarkers including advanced imaging, to detect myopericaridal disease is reduced in this population compared with the general population due to chronic inflamation.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病患者的心肌心包疾病通常呈亚临床表现，常伴有非典型临床表现，且由于慢性炎症，常规生物标志物（包括先进影像学技术）在该人群中检测心肌心包疾病的准确性较普通人群降低。
+
+
+> **深度解读：** 本节深入剖析了SARDs相关心肌心包疾病在诊断上面临的三重挑战。第一，亚临床性：SARDs患者的心肌心包受累往往缺乏典型的心血管症状，患者可能仅表现为乏力、低热或原发病活动的加重，这使得临床医生容易将注意力集中在关节、皮肤或肾脏等更明显的靶器官损害上，而忽视了心脏受累。第二，非典型表现：即使出现症状，也可能与典型心肌炎/心包炎的临床表现不同，例如可能表现为不明原因的心力衰竭或心律失常，而非经典的胸痛。第三，诊断工具准确性下降：慢性炎症导致基线水平的生物标志物（如肌钙蛋白、CRP）升高，使得这些指标的诊断特异性降低；同时，先进影像学技术如心脏磁共振（CMR）的Lake Louise标准在慢性炎症背景下可能出现假阳性或难以解读的影像。这些因素共同导致SARDs患者心肌心包疾病的漏诊率和误诊率居高不下，进而延误治疗，影响预后。
+
+
+### 3. 核心发现与证据：管理策略的现状与不足
+
+**英文原文：**
+
+> Management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases primarily targets the underlying rheumatic disease; however, disease-specific guidance and multidisciplinary care pathways for the management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases are urgently required and should be developed jointly by experts in both rheumatology and cardiology.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病患者心肌心包受累的管理主要针对其潜在的风湿性疾病；然而，针对系统性自身免疫性风湿病患者心肌心包受累管理的疾病特异性指导和多学科诊疗路径亟待建立，并应由风湿病学和心脏病学专家共同制定。
+
+
+> **深度解读：** 本节指出了当前SARDs相关心肌心包疾病管理中的核心矛盾：治疗靶点与治疗需求之间的错位。目前临床上对SARDs患者心肌心包受累的处理主要集中于控制原发风湿性疾病，即通过免疫抑制治疗（如糖皮质激素、改善病情抗风湿药、生物制剂等）来间接改善心脏受累。这种策略的理论基础在于，心肌心包受累是SARDs全身性免疫紊乱的一部分，控制原发病即可缓解心脏病变。然而，这一策略存在明显不足：首先，部分患者的心脏受累可能独立于全身疾病活动度，即使原发病得到控制，心脏病变仍可能进展；其次，免疫抑制治疗本身可能带来心血管副作用（如代谢紊乱、感染风险增加等）；再者，缺乏针对心脏受累的独立评估和治疗调整标准。因此，作者呼吁建立疾病特异性的管理指南和多学科协作路径，这意味着需要风湿病学和心脏病学专家共同参与，制定包括筛查、诊断、风险分层、治疗和随访在内的全流程管理方案。
+
+
+### 4. 临床意义与应用：多学科协作的迫切需求
+
+**英文原文：**
+
+> Myopericardial involvement in systemic autoimmune rheumatic diseases is common and associated with poor outcomes
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病中的心肌心包受累十分常见，且与不良预后相关。
+
+
+**英文原文：**
+
+> disease-specific guidance and multidisciplinary care pathways for the management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases are urgently required and should be developed jointly by experts in both rheumatology and cardiology.
+
+
+**中文翻译：**
+
+> 针对系统性自身免疫性风湿病患者心肌心包受累管理的疾病特异性指导和多学科诊疗路径亟待建立，并应由风湿病学和心脏病学专家共同制定。
+
+
+> **深度解读：** 本节从临床实践角度阐述了本文的核心呼吁。SARDs患者心肌心包受累的高发生率和不良预后构成了建立专门管理路径的临床迫切性。从流行病学角度看，SARDs患者心血管疾病的发病率和死亡率显著高于普通人群，其中心肌心包受累是重要的 contributing factor。然而，目前临床实践中，风湿科医生和心脏科医生之间的协作往往不够紧密，导致心脏受累的筛查不足、诊断延迟和治疗不统一。多学科协作（MDT）模式的建立需要解决多个层面的问题：在组织层面，需要建立风湿-心脏联合门诊或会诊机制；在知识层面，需要制定跨学科的培训和教育计划；在科研层面，需要开展针对SARDs人群的前瞻性研究以提供循证依据。此外，作者强调指南应由两个学科的专家共同制定，这体现了对疾病复杂性的深刻认识——SARDs相关心肌心包疾病既不是单纯的风湿病，也不是单纯的心脏病，而是需要整合两学科知识的交叉领域。
+
+
+### 5. 挑战与局限：通用指南的适用性边界
+
+**英文原文：**
+
+> the unique pathophysiology of myopericardial involvement in systemic autoimmune rheumatic diseases poses specific challenges and limits the applicability of the generic diagnostic pathways proposed in the 2025 ESC guidelines to the systemic autoimmune rheumatic disease population.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病中心肌心包受累的独特病理生理机制带来了特定挑战，限制了2025年ESC指南所提出的通用诊断路径在该人群中的适用性。
+
+
+**英文原文：**
+
+> the accuracy of conventional biomarkers including advanced imaging, to detect myopericaridal disease is reduced in this population compared with the general population due to chronic inflamation.
+
+
+**中文翻译：**
+
+> 由于慢性炎症，常规生物标志物（包括先进影像学技术）在该人群中检测心肌心包疾病的准确性较普通人群降低。
+
+
+> **深度解读：** 本节系统梳理了通用指南在SARDs人群中应用的主要局限。首先，病理生理机制的差异是根本原因：SARDs相关心肌心包疾病涉及自身免疫介导的慢性炎症、血管炎、纤维化等复杂过程，与普通人群常见的病毒性心肌炎或特发性心包炎的急性炎症反应有本质区别。其次，诊断工具的准确性下降是直接后果：常规生物标志物如肌钙蛋白、CK-MB在SARDs患者中可能因慢性肌肉炎症或肾功能不全而基线升高，降低了诊断特异性；心脏磁共振的Lake Louise标准主要基于急性心肌炎的影像特征，在慢性炎症和纤维化为主的SARDs患者中可能不适用；心内膜心肌活检虽是金标准，但为有创检查，风险较高，难以常规开展。这些局限性提示，未来需要开发针对SARDs人群的专用诊断标准和风险评估工具，例如结合特定自身抗体谱、新型炎症标志物和先进影像学技术（如T1/T2 mapping、细胞外容积定量等）的综合评估体系。
+
+
+### 6. 展望：迈向SARDs特异性心血管管理
+
+**英文原文：**
+
+> disease-specific guidance and multidisciplinary care pathways for the management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases are urgently required and should be developed jointly by experts in both rheumatology and cardiology.
+
+
+**中文翻译：**
+
+> 针对系统性自身免疫性风湿病患者心肌心包受累管理的疾病特异性指导和多学科诊疗路径亟待建立，并应由风湿病学和心脏病学专家共同制定。
+
+
+> **深度解读：** 本节展望了未来SARDs相关心肌心包疾病管理的发展方向。作者的核心建议是建立疾病特异性指南和多学科协作路径，这需要从以下几个维度推进：第一，开展针对SARDs人群的大规模前瞻性队列研究，明确心肌心包受累的自然病史、危险因素和预后标志物；第二，开发适用于SARDs患者的诊断标准，整合临床、实验室和影像学多维度信息，提高诊断准确性；第三，制定风险分层策略，识别高危患者进行早期干预；第四，建立风湿-心脏联合门诊和多学科团队，实现从筛查到治疗的全流程管理；第五，开展随机对照试验，评估不同免疫抑制策略对心脏受累的疗效和安全性。此外，随着精准医学的发展，未来可能基于患者的自身抗体谱、基因型和免疫表型制定个体化治疗方案。本文的发表时机恰逢ESC 2025指南发布之后，具有重要的现实意义，为风湿病学和心脏病学领域的交叉研究指明了方向。
+
+
+## 四、原文精读摘录（学英语/看综述写作）
+
+### 原文摘录 1
+
+**英文原文：**
+
+> The European Society of Cardiology (ESC) released new guidelines in 2025 for the management of myocarditis and pericarditis, which include systemic autoimmune rheumatic diseases as one of the potential aetiologies. Myopericardial involvement in systemic autoimmune rheumatic diseases is common and associated with poor outcomes; however, the unique pathophysiology of myopericardial involvement in systemic autoimmune rheumatic diseases poses specific challenges and limits the applicability of the generic diagnostic pathways proposed in the 2025 ESC guidelines to the systemic autoimmune rheumatic disease population.
+
+
+**中文翻译：**
+
+> 欧洲心脏病学会（ESC）于2025年发布了心肌炎与心包炎管理的新指南，将系统性自身免疫性风湿病列为潜在病因之一。系统性自身免疫性风湿病中的心肌心包受累十分常见，且与不良预后相关；然而，系统性自身免疫性风湿病中心肌心包受累的独特病理生理机制带来了特定挑战，限制了2025年ESC指南所提出的通用诊断路径在该人群中的适用性。
+
+
+### 原文摘录 2
+
+**英文原文：**
+
+> Myopericardial disease in patients with systemic autoimmune rheumatic disease is usually subclinical, often with atypical clinical presentation, and the accuracy of conventional biomarkers including advanced imaging, to detect myopericaridal disease is reduced in this population compared with the general population due to chronic inflamation.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病患者的心肌心包疾病通常呈亚临床表现，常伴有非典型临床表现，且由于慢性炎症，常规生物标志物（包括先进影像学技术）在该人群中检测心肌心包疾病的准确性较普通人群降低。
+
+
+### 原文摘录 3
+
+**英文原文：**
+
+> Management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases primarily targets the underlying rheumatic disease; however, disease-specific guidance and multidisciplinary care pathways for the management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases are urgently required and should be developed jointly by experts in both rheumatology and cardiology.
+
+
+**中文翻译：**
+
+> 系统性自身免疫性风湿病患者心肌心包受累的管理主要针对其潜在的风湿性疾病；然而，针对系统性自身免疫性风湿病患者心肌心包受累管理的疾病特异性指导和多学科诊疗路径亟待建立，并应由风湿病学和心脏病学专家共同制定。
+
+
+## 五、中英对照精读表
+
+| 英文原文 | 中文对照 |
+| --- | --- |
+| The European Society of Cardiology (ESC) released new guidelines in 2025 for the management of myocarditis and pericarditis | 欧洲心脏病学会（ESC）于2025年发布了心肌炎与心包炎管理的新指南 |
+| which include systemic autoimmune rheumatic diseases as one of the potential aetiologies | 将系统性自身免疫性风湿病列为潜在病因之一 |
+| Myopericardial involvement in systemic autoimmune rheumatic diseases is common and associated with poor outcomes | 系统性自身免疫性风湿病中的心肌心包受累十分常见，且与不良预后相关 |
+| the unique pathophysiology of myopericardial involvement in systemic autoimmune rheumatic diseases poses specific challenges | 系统性自身免疫性风湿病中心肌心包受累的独特病理生理机制带来了特定挑战 |
+| limits the applicability of the generic diagnostic pathways proposed in the 2025 ESC guidelines to the systemic autoimmune rheumatic disease population | 限制了2025年ESC指南所提出的通用诊断路径在该人群中的适用性 |
+| Myopericardial disease in patients with systemic autoimmune rheumatic disease is usually subclinical | 系统性自身免疫性风湿病患者的心肌心包疾病通常呈亚临床表现 |
+| often with atypical clinical presentation | 常伴有非典型临床表现 |
+| the accuracy of conventional biomarkers including advanced imaging, to detect myopericaridal disease is reduced in this population compared with the general population | 常规生物标志物（包括先进影像学技术）在该人群中检测心肌心包疾病的准确性较普通人群降低 |
+| due to chronic inflamation | 由于慢性炎症 |
+| Management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases primarily targets the underlying rheumatic disease | 系统性自身免疫性风湿病患者心肌心包受累的管理主要针对其潜在的风湿性疾病 |
+| disease-specific guidance and multidisciplinary care pathways for the management of myopericardial involvement in patients with systemic autoimmune rheumatic diseases are urgently required | 针对系统性自身免疫性风湿病患者心肌心包受累管理的疾病特异性指导和多学科诊疗路径亟待建立 |
+| should be developed jointly by experts in both rheumatology and cardiology | 应由风湿病学和心脏病学专家共同制定 |
+
+## 六、专业术语表
+
+| 术语 | 中文译名 | 简要解释 |
+| --- | --- | --- |
+| ESC (European Society of Cardiology) | 欧洲心脏病学会 | 欧洲最具影响力的心脏病学专业组织，负责制定心血管疾病诊疗指南 |
+| Myocarditis | 心肌炎 | 心肌的炎症性疾病，可由感染、自身免疫等多种原因引起 |
+| Pericarditis | 心包炎 | 心包（包裹心脏的膜性结构）的炎症性疾病 |
+| Systemic autoimmune rheumatic diseases (SARDs) | 系统性自身免疫性风湿病 | 一组以免疫系统攻击自身组织为特征的慢性疾病，包括系统性红斑狼疮、类风湿关节炎、系统性硬化症等 |
+| Myopericardial involvement | 心肌心包受累 | 心脏肌肉和/或心包被疾病过程累及的状态 |
+| Aetiology | 病因学 | 疾病发生的原因和机制的研究 |
+| Pathophysiology | 病理生理学 | 疾病状态下机体功能和代谢异常的机制 |
+| Subclinical | 亚临床的 | 疾病已存在但尚未表现出明显临床症状的阶段 |
+| Biomarkers | 生物标志物 | 可客观测量和评估的生物学指标，用于疾病诊断、预后判断等 |
+| Advanced imaging | 先进影像学 | 包括心脏磁共振（CMR）、正电子发射断层扫描（PET）等高端影像技术 |
+| Chronic inflammation | 慢性炎症 | 持续时间较长的炎症反应，可导致组织损伤和纤维化 |
+| Multidisciplinary care pathways | 多学科诊疗路径 | 由多个学科专家共同参与制定的标准化诊疗流程 |
+| Rheumatology | 风湿病学 | 研究和管理关节、肌肉、骨骼及自身免疫性疾病的医学专科 |
+| Cardiology | 心脏病学 | 研究和管理心脏及血管疾病的医学专科 |
+| Cardiac magnetic resonance (CMR) | 心脏磁共振 | 利用磁共振技术对心脏结构和功能进行无创评估的影像学方法 |
+| Lake Louise criteria | 路易斯湖标准 | 心脏磁共振诊断心肌炎的标准化影像学标准 |
+| Troponin | 肌钙蛋白 | 心肌损伤的标志物，心肌细胞受损时释放入血 |
+| Immunosuppression | 免疫抑制 | 通过药物或其他手段抑制免疫系统活性的治疗方法 |
+| Disease-modifying antirheumatic drugs (DMARDs) | 改善病情抗风湿药 | 用于控制风湿性疾病进展的药物，包括传统合成DMARDs和生物制剂 |
+| Endomyocardial biopsy | 心内膜心肌活检 | 通过导管获取心肌组织进行病理检查的有创诊断方法 |
+| Risk stratification | 风险分层 | 根据疾病严重程度和预后因素将患者分为不同风险等级 |
+| Precision medicine | 精准医学 | 基于个体基因、环境和生活方式差异制定个性化诊疗方案的医学模式 |
+
+## 七、前沿性与时效性点评
+
+本文发表于2026年《The Lancet Rheumatology》，是对2025年ESC心肌炎与心包炎指南的重要回应和补充。其前沿性体现在三个方面：第一，及时性——在ESC指南发布后迅速从风湿病学视角进行批判性评估，填补了指南在特殊人群应用中的讨论空白；第二，交叉性——文章由风湿病学和心脏病学专家共同撰写，体现了学科交叉的前沿趋势；第三，问题导向——明确指出了通用指南在SARDs人群中的适用性局限，并提出了具体的改进方向。然而，本文作为一篇评论性文章，也存在一定局限性：首先，文章主要基于专家观点和现有文献的归纳，缺乏原始研究数据支持；其次，对于如何具体调整诊断路径和治疗策略，文章仅提出了原则性建议，未给出可操作的具体方案；再者，文章未涉及成本效益分析，而多学科协作模式的实施可能面临资源分配的现实挑战。从发展阶段看，SARDs相关心肌心包疾病的特异性管理仍处于概念形成和共识构建阶段，距离形成循证指南还有较长的路要走。未来研究应聚焦于：开发SARDs特异性的诊断标准和风险分层工具、开展前瞻性队列研究明确自然病史、进行随机对照试验评估不同治疗策略的疗效。总体而言，本文为风湿病学和心脏病学交叉领域的研究者和临床医生提供了重要的思考框架，具有较高的学术价值和临床指导意义。
+
+## 八、关键词
+
+myocarditis, pericarditis, systemic autoimmune rheumatic diseases, ESC guidelines, myopericardial involvement, multidisciplinary care, cardiac imaging, biomarkers, chronic inflammation, rheumatology
+
+---
+
+*本精读由 DeepSeek 自动生成，仅供参考，请以原文为准。*
