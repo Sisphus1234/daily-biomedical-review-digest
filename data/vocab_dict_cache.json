@@ -6023,5 +6023,60 @@
   "empathy": null,
   "disastrous": null,
   "aggravate": null,
-  "sentiment": null
+  "sentiment": null,
+  "vaccine": null,
+  "conception": null,
+  "distort": null,
+  "imaginative": null,
+  "municipal": null,
+  "plausible": {
+    "ipa": "/ˈplɔːz.ə.bəl/",
+    "defs": [
+      {
+        "pos": "adjective",
+        "def": "Seemingly or apparently valid, likely, or acceptable; conceivably true or likely",
+        "example": "a plausible excuse"
+      },
+      {
+        "pos": "adjective",
+        "def": "Obtaining approbation; specifically pleasing; apparently right; specious.",
+        "example": "a plausible pretext; plausible manners; a plausible delusion"
+      },
+      {
+        "pos": "adjective",
+        "def": "Worthy of being applauded; praiseworthy; commendable; ready.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "sociology": null,
+  "masculine": null,
+  "weird": null,
+  "eligible": {
+    "ipa": "/ˈɛlɪdʒəb(ə)l/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "One who is eligible.",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Allowed to and meeting the necessary conditions required to participate in or be chosen for something",
+        "example": ""
+      },
+      {
+        "pos": "adjective",
+        "def": "Worthy of being chosen (for marriage)",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "indulge": null,
+  "slim": null,
+  "surpass": null,
+  "defy": null,
+  "morality": null
 }
