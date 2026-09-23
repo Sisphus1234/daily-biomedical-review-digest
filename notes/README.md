@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-22 | [2026-09-22-42767766-relevance-of-the-2025-esc-guidelines-for-the.md](2026-09-22-42767766-relevance-of-the-2025-esc-guidelines-for-the.md) | Relevance of the 2025 ESC guidelines for the diagnosis and management of myocarditis and pericarditis for systemic autoimmune rheumatic diseases. |
+| 2026-09-23 | [2026-09-23-42772875-where-do-delays-occur-a-systematic-review-of.md](2026-09-23-42772875-where-do-delays-occur-a-systematic-review-of.md) | Where do delays occur? A systematic review of the barriers to early breast cancer diagnosis across South Africa's health system. |
