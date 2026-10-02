@@ -6198,5 +6198,60 @@
   "imperial": null,
   "pest": null,
   "poster": null,
-  "reconcile": null
+  "reconcile": null,
+  "hug": {
+    "ipa": "/hʌɡ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A close embrace, especially when charged with such an emotion as represented by: affection, joy, relief, lust, anger, agression, compassion, and the like, as opposed to being characterized by formality, equivocation or ambivalence (a half-embrace or \"little hug\").",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "A particular grip in wrestling.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To crouch; huddle as with cold.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To cling closely together.",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To embrace by holding closely, especially in the arms.",
+        "example": "Billy hugged Danny until he felt better."
+      },
+      {
+        "pos": "verb",
+        "def": "To stay close to (the shore etc.)",
+        "example": ""
+      },
+      {
+        "pos": "verb",
+        "def": "To hold fast; to cling to; to cherish.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "ideology": null,
+  "legacy": null,
+  "entail": null,
+  "broker": null,
+  "likelihood": null,
+  "comedy": null,
+  "incidentally": null,
+  "terminate": null,
+  "tow": null,
+  "blur": null,
+  "contemplate": null,
+  "discriminate": null,
+  "intricate": null,
+  "extinct": null
 }
