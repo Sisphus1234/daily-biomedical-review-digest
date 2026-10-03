@@ -6253,5 +6253,35 @@
   "contemplate": null,
   "discriminate": null,
   "intricate": null,
-  "extinct": null
+  "extinct": null,
+  "patrol": null,
+  "repel": null,
+  "simultaneous": null,
+  "spokesman": null,
+  "beverage": {
+    "ipa": "/ˈbevəɹɪdʒ/",
+    "defs": [
+      {
+        "pos": "noun",
+        "def": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water.",
+        "example": ""
+      },
+      {
+        "pos": "noun",
+        "def": "(A gift of) drink money.",
+        "example": ""
+      }
+    ],
+    "source": "Free Dictionary API (dictionaryapi.dev / Wiktionary)"
+  },
+  "expire": null,
+  "marital": null,
+  "precedent": null,
+  "pub": null,
+  "reckless": null,
+  "bald": null,
+  "bankrupt": null,
+  "cumulative": null,
+  "dubious": null,
+  "integral": null
 }
