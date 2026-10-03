@@ -4,4 +4,4 @@
 
 | 日期 | 文章 | 标题 |
 | --- | --- | --- |
-| 2026-09-23 | [2026-09-23-42772875-where-do-delays-occur-a-systematic-review-of.md](2026-09-23-42772875-where-do-delays-occur-a-systematic-review-of.md) | Where do delays occur? A systematic review of the barriers to early breast cancer diagnosis across South Africa's health system. |
+| 2026-10-03 | [2026-10-03-42826182-engineering-neurovascular-thrombosis-light.md](2026-10-03-42826182-engineering-neurovascular-thrombosis-light.md) | Engineering neurovascular thrombosis: Light-based bioprinting for patient-specific modeling and women's cerebrovascular health. |
